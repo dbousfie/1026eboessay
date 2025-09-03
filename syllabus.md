@@ -1125,6 +1125,8 @@ regardless of grade achieved (e.g. earned 48% - 5% = 43%.
 
 - State your Argument 2 to support your thesis
 
+These links are not yet available they will become available closer to the assignment time
+
 **Complete & Submit the "Essay Bibliography & Outline Worksheet" Word
 file BELOW:**
 
@@ -1139,3 +1141,4 @@ etc.)**
 
 **(when you click on the above, it will open a new window for download,
 etc.)**
+
