@@ -1004,9 +1004,8 @@ regardless of grade achieved (e.g. earned 48% - 5% = 43%.
 
 ## 1. Decide on an Essay topic from the choices below (same as those listed on the Essay Instructions page):  
 
-1.  **Why are youth in North America and/or Western Europe not
-    participating in formal politics (e.g. voting, political parties,
-    and campaigns)? Compare 2 countries.**
+1.  **Should Canada pursue the recommendations of the Truth and
+    Reconciliation Commission? Focus on 2-3 recommendations.**
 
 2.  **On balance, has globalization's impact been positive or negative?
     Compare the case of 2 countries.**
@@ -1597,3 +1596,4 @@ while more general EBO questions are discussed below.
 33. Do I have to use Chicago 17 Style Guide?
 
     a.  Yes, unless you are using MLA 9 Style Guide
+
