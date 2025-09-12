@@ -801,7 +801,7 @@ questions or concerns, use the Essay Bot and please do connect with us.
 ### **What is the Essay?**
 
 Our course is an is an Essay course, so you must research, write and
-submit a 3,000-word Final Essay. The Essay is an Argumentative essay
+submit a 1500-word Final Essay. The Essay is an Argumentative essay
 with Arguments, Objections and Replies. It should have a Thesis, or
 central argument/claim, 2-3 major arguments in support of the Thesis and
 supported with evidence and sources. To help you with this, you will
@@ -1596,4 +1596,5 @@ while more general EBO questions are discussed below.
 33. Do I have to use Chicago 17 Style Guide?
 
     a.  Yes, unless you are using MLA 9 Style Guide
+
 
