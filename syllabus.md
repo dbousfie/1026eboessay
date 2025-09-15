@@ -1597,4 +1597,146 @@ while more general EBO questions are discussed below.
 
     a.  Yes, unless you are using MLA 9 Style Guide
 
+The following is the structure of the EBO submission file - students will access it in docx format - it is available on this page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
+**Your Name?** (type your full name here; don't need your student number
+or email address)
+
+**Your Essay Topic?\
+(copy-n-paste the question from the Essay or EBO Instructions pages)**
+
+**[Essay Bibliography/Works Cited]{.underline}**
+
+**(follow the MLA 9^th^ edition (a works cited)**
+
+**OR Chicago 17^th^ edition (a bibliography) format as required)**
+
+**Which Style are you using: MLA OR Chicago?** (NOT allowed: APA, AMA,
+IEEE, etc.)
+
+***NOTE: in the Word document, the space below will flow to the next
+page as you enter your sources; for the sources listings, the space
+below each sub-heading is pre-formatted for indenting your sources\***
+
+**[Your Scholarly Academic Article Sources, 2010 or later -- minimum of
+10?]{.underline}**
+
+*Note:*
+
+- *full marks require more than the minimum number of sources(see
+  rubric)*
+
+- *only 2 journal article sources from the same journal [issue or
+  volume]{.underline} (e.g. a special journal issue on
+  Truth-and-Reconciliation has 10 articles, only 2 will count), but you
+  can use more than 2 from the same journal as long as it's across
+  different issues/volumes of the journal)*
+
+<!-- -->
+
+- *also, if you list far beyond the number of sources for full marks,
+  the Marker will only mark the number of sources which meet the rubric
+  criteria for full marks from first listed source to that point where
+  you satisfy the maximum criteria (that is, we are not picking the
+  'best ones' for your best grade, as it's your work/role/job to pick
+  the 'best ones' and list them here)*
+
+**[Essay Outline]{.underline}**
+
+**[Your Thesis?]{.underline}**
+
+B. Your Thesis? 🡪 1 sentence which directly answer the questions; not
+required to include your arguments (which you have to state below
+anyways; if the Essay question requires stating 2 case studies, please
+do state your 2 cases studies after your thesis
+
+In this essay, I argue that
+
+**[Your Argument 1?]{.underline}**
+
+C1. What is your First Argument in support of your Thesis? (3-5
+sentences or bullet points; don't need to cite your sources, but okay to
+do so if you want)
+
+C2. What is an Objection to your First Argument? (3-5 sentences or
+bullet points; don't need to cite your sources, but okay to do so if you
+want)
+
+**[Your Argument 2?]{.underline}**
+
+D1. What is your Second Argument in support of your Thesis? (3-5
+sentences or bullet points; don't need to cite your sources, but okay to
+do so if you want)
+
+D2. What is an Objection to your Second Argument? (3-5 sentences or
+bullet points; don't need to cite your sources, but okay to do so if you
+want)
+
+The following is an example of the grade sheet - students have access to it in a PDF form on this page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
+# Poli Sci 1026F/G — EBO Grading Sheet
+
+**Name:** Bousfield, Dan  
+**Topic:** War on Terror  
+**Citation Style:** Chicago
+
+> **Note:** Relative weight is given in brackets; scores are out of 5.
+
+---
+
+## Copy‑and‑Paste Essay Question *(10%)*
+- **Score:** **5.0 / 5**
+- **Quality:** great
+
+---
+
+## Sources / Research
+### Count of Scholarly Academic Articles
+- **Count:** 15  
+- **Criterion:** 2010‑onwards; 10 = 2.5, 13+ = 5 *(20%)*  
+- **Score:** **5.0 / 5**
+
+### Bibliography / Works Cited *(20%)*
+- **Prompt:** Sources quality? Style followed? *(If NOT MLA or Chicago: 0)*
+- **Score:** **3.0 / 5**
+
+**Sub‑Total for Bibliography (before penalties):** **42.0 / 50**
+
+#### Penalties *(one‑time penalty each, even if multiple occurrences)*
+| Issue | Penalty |
+|---|---:|
+| Missing Citation Style (MLA or Chicago) | −0 |
+| Missing author(s) | −0 |
+| Missing book/journal/publication title(s) | **−2** |
+| Missing publisher(s) | −0 |
+| Missing publication dates | **−2** |
+| Missing page numbers | **−2** |
+| Not alphabetizing appropriately | **−2** |
+| Not indenting | −0 |
+| Not italicize or underline appropriately | **−2** |
+
+- **Total Penalties:** **−10**
+- **Bibliography Score (out of 50):** **32.0 / 50**
+
+---
+
+## Outline Components
+| Component | Weight | Score | Quality |
+|---|---:|---:|---|
+| Thesis | 10% | **4.0 / 5** | good |
+| Argument 1 | 10% | **5.0 / 5** | great |
+| Objection 1 | 10% | **2.5 / 5** | passable |
+| Argument 2 | 10% | **2.5 / 5** | passable |
+| Objection 2 | 10% | **5.0 / 5** | great |
+
+**Outline Score:** **38.0 / 50**
+
+---
+
+## Final
+- **EBO Grade:** **70.0**
+
+*Comments are either in your returned file or a separate file in that same folder.*
+
+
 
