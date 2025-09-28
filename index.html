@@ -2,36 +2,87 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Syllabus Query Bot</title>
+  <title>EBO and Essay Bot</title>
   <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet" />
   <style>
+    :root {
+      --western-purple: #4F2683;
+      --bg-white: #ffffff;
+    }
+
     body {
       font-family: 'Lato', sans-serif;
       margin: 2rem;
+      color: var(--western-purple);
+      background-color: var(--bg-white);
+
+      /* purple watermark across background */
+      background-image:
+        url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='280'>\
+  <rect width='100%' height='100%' fill='none'/>\
+  <g transform='rotate(-30 0 0)'>\
+    <text x='0' y='40' fill='%234F2683' fill-opacity='0.10' font-size='28' font-family='Lato, Arial, sans-serif'>EBO AND ESSAY BOT • EBO AND ESSAY BOT • EBO AND ESSAY BOT •</text>\
+    <text x='0' y='120' fill='%234F2683' fill-opacity='0.10' font-size='28' font-family='Lato, Arial, sans-serif'>EBO AND ESSAY BOT • EBO AND ESSAY BOT • EBO AND ESSAY BOT •</text>\
+    <text x='0' y='200' fill='%234F2683' fill-opacity='0.10' font-size='28' font-family='Lato, Arial, sans-serif'>EBO AND ESSAY BOT • EBO AND ESSAY BOT • EBO AND ESSAY BOT •</text>\
+  </g>\
+</svg>");
+      background-repeat: repeat;
+      background-size: 600px 280px;
+      background-attachment: fixed;
     }
+
     textarea {
       font-family: monospace;
       width: 100%;
       max-width: 600px;
+      background-color: rgba(255,255,255,0.9);
+      color: #000;
+      border: 1px solid #ccc;
+      padding: .5rem;
+      border-radius: .25rem;
     }
+
+    textarea::placeholder {
+      color: #6a3c9b; /* subtle purple placeholder */
+    }
+
     #response {
       white-space: pre-wrap;
       margin-top: 1rem;
       padding: 1rem;
-      background: #f4f4f4;
+      background: rgba(240,240,240,0.9);
       border: 1px solid #ccc;
       max-width: 600px;
+      color: #000;
+      border-radius: .25rem;
+    }
+
+    button {
+      background-color: var(--western-purple);
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: .35rem;
+    }
+
+    button:hover {
+      filter: brightness(1.1);
     }
   </style>
 </head>
 <body>
   <h2>EBO and Essay Queries Here</h2>
+
   <form id="queryForm">
     <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
     <button type="submit">Submit</button>
   </form>
+
   <h3>Response:</h3>
-  <h5> all queries and responses are anonymously recorded by qualitrics for feedback, research and improvement</h5>
+  <h5>All queries and responses are anonymously recorded by Qualtrics for feedback, research and improvement</h5>
   <pre id="response"></pre>
 
   <script>
