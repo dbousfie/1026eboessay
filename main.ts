@@ -41,8 +41,7 @@ serve(async (req: Request): Promise<Response> => {
     {
       role: "system",
       content:
-        "You are an accurate assistant. Always include a source URL if possible."
-
+        "You are an accurate assistant. Always include the exact wording from syllabus.md in your answers (quote it verbatim), and you may add explanation after. Always include a source URL if possible.",
     },
     {
       role: "system",
