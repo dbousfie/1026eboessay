@@ -17,8 +17,8 @@ type Section = {
   heading: string;
   start: number;
   end: number;
-  text: string;
-  lessonUrls: string[];
+  text: string;         // section body text
+  lessonUrls: string[]; // lesson/unit links from heading + body
 };
 
 function parseSyllabus(md: string): Section[] {
@@ -52,17 +52,20 @@ function parseSyllabus(md: string): Section[] {
 function extractQuotedSnippets(answer: string): string[] {
   const snippets: string[] = [];
 
+  // Markdown blockquotes
   for (const line of answer.split("\n")) {
     const m = line.match(/^\s*>\s*(.+)$/);
     if (m && m[1].trim().length >= 20) snippets.push(m[1].trim());
   }
 
+  // Text inside double quotes
   const quoteRx = /"([^"]{20,})"/g;
   let qm: RegExpExecArray | null;
   while ((qm = quoteRx.exec(answer)) !== null) {
     snippets.push(qm[1].trim());
   }
 
+  // Fallback: longer sentences if nothing explicitly quoted
   if (snippets.length === 0) {
     for (const sent of answer.split(/\n|(?<=[.!?])\s+/)) {
       const words = sent.trim().split(/\s+/).filter(Boolean);
@@ -73,32 +76,81 @@ function extractQuotedSnippets(answer: string): string[] {
   return Array.from(new Set(snippets));
 }
 
-function findCitedSections(answer: string, sections: Section[]): Section[] {
-  const snippets = extractQuotedSnippets(answer);
-  if (snippets.length === 0) return [];
+// Heuristic patterns for the “FAQ grading matrix” case and similar facts
+const STRONG_PATTERNS = [
+  /\b10\s*=\s*2\.5\b/i,
+  /\b11\s*=\s*3\b/i,
+  /\b12\s*=\s*4\b/i,
+  /\b13\+\s*=\s*5\b/i,
+];
+const SUPPORT_PATTERNS = [
+  /ten is the minimum/i,
+  /full marks/i,
+  /minimum requirement/i,
+  /scholarly (academic )?sources?/i,
+];
 
-  const hits: Section[] = [];
-  for (const s of sections) {
-    const hay = (s.heading + "\n" + s.text).toLowerCase();
-    let matched = false;
-    for (const snip of snippets) {
-      const needle = snip.toLowerCase();
-      if (needle.length >= 20 && hay.includes(needle)) {
-        matched = true;
-        break;
-      }
-    }
-    if (matched) hits.push(s);
+// Score a section against the assistant’s answer
+function scoreSection(answerLower: string, sec: Section): number {
+  const hay = (sec.heading + "\n" + sec.text).toLowerCase();
+  let score = 0;
+
+  // Strong patterns: award only if pattern appears in BOTH answer and section
+  for (const re of STRONG_PATTERNS) {
+    const ansHit = re.test(answerLower);
+    const secHit = re.test(hay);
+    if (ansHit && secHit) score += 30;
   }
-  return hits;
+
+  // Supportive phrases: smaller weight
+  for (const re of SUPPORT_PATTERNS) {
+    const ansHit = re.test(answerLower);
+    const secHit = re.test(hay);
+    if (ansHit && secHit) score += 8;
+  }
+
+  // Quoted or long snippets: if present in both, medium weight
+  const snippets = extractQuotedSnippets(answerLower);
+  for (const snip of snippets) {
+    const needle = snip.toLowerCase();
+    if (needle.length >= 20 && hay.includes(needle)) {
+      score += 15;
+    }
+  }
+
+  // Small boost if this looks like an FAQ
+  if (sec.heading.toLowerCase().includes("faq")) score += 6;
+
+  // Small boost if the section actually has lesson links to attach
+  if (sec.lessonUrls.length > 0) score += 3;
+
+  return score;
 }
 
-function attachLinksFromCitedSections(answer: string, syllabusMd: string): string {
+// Select sections with the top score; tie-inclusive. Require a minimum score.
+function selectBestSections(answer: string, sections: Section[]): Section[] {
+  const answerLower = answer.toLowerCase();
+  let maxScore = 0;
+  const scored: { s: Section; sc: number }[] = [];
+
+  for (const s of sections) {
+    const sc = scoreSection(answerLower, s);
+    scored.push({ s, sc });
+    if (sc > maxScore) maxScore = sc;
+  }
+
+  if (maxScore < 15) return []; // too weak — avoid wrong links
+
+  return scored.filter(({ sc }) => sc >= maxScore - 1).map(({ s }) => s);
+}
+
+// Attach only the lesson/unit links from the best-matching section(s)
+function attachLinksFromBestSections(answer: string, syllabusMd: string): string {
   const sections = parseSyllabus(syllabusMd);
-  const cited = findCitedSections(answer, sections);
+  const winners = selectBestSections(answer, sections);
 
   const urls = new Set<string>();
-  for (const s of cited) {
+  for (const s of winners) {
     for (const u of s.lessonUrls) urls.add(u);
   }
 
@@ -135,7 +187,8 @@ serve(async (req: Request): Promise<Response> => {
     return new Response("Missing OpenAI API key", { status: 500 });
   }
 
-  const syllabus = await Deno.readTextFile(CONTENT_FILE).catch(
+  const courseFile = CONTENT_FILE;
+  const materials = await Deno.readTextFile(courseFile).catch(
     () => "Error loading course materials file.",
   );
 
@@ -155,7 +208,7 @@ When answering student questions:
 - If multiple relevant Brightspace pages apply, include all of them once each.
 
 Here are the course materials:
-${syllabus}
+${materials}
       `.trim(),
     },
     { role: "user", content: body.query },
@@ -177,7 +230,8 @@ ${syllabus}
   const baseResponse =
     openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
 
-  const withLinks = attachLinksFromCitedSections(baseResponse, syllabus);
+  // Attach only the lesson/unit links from the best-matching section(s)
+  const withLinks = attachLinksFromBestSections(baseResponse, materials);
 
   const result =
     `${withLinks}\n\nThere may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
