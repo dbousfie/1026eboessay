@@ -1,3 +1,5 @@
+
+# Page 1
 ## ***Go to the Library. Learn from Librarians.*** ***Information Literacy & Management taught by Librarians is*** ***one of the top 5 most important skills for your career and successful future!***
 
 ## **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
@@ -8,6 +10,9 @@
 
 #### **There is also a Bot which can be used to answer many questions, and do email us if you have other question**
 
+The link to page 1 is here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3405158
+
+# Page 2
 # Scaffolding: Why an Essay AND an EBO?
 
 Politics requires us to listen to arguments, read analyse, and engage
@@ -70,6 +75,9 @@ of instructional scaffolding\",
 Becton Loveless, \"Scaffolding in Education\",
 <https://www.educationcorner.com/scaffolding-education-guide.html>
 
+Link to Page 2 information here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405165
+
+# Page 3
 # How do I Do Research, Find Sources, Use the Library Resources, etc., to complete the EBO?
 
 ## **What and where are some Resources, Videos, etc., for these Assignments?**
@@ -531,6 +539,10 @@ Libraries](https://www.youtube.com/watch?v=S_lnC6z9F8g&feature=emb_logo)
 [Check out this Video by Scribbr: \"How to Avoid Plagiarism with 3
 Simple Tricks\"](https://www.youtube.com/watch?v=uQhVDH9p7aU)
 
+Page 3 link is here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405167
+
+#Page 4 
+
 # How do I Approach Writing an Essay for Political Science?
 
 **Why should I read this Essay writing guide?**
@@ -796,7 +808,62 @@ questions or concerns, use the Essay Bot and please do connect with us.
 
 ##  **Good luck!**
 
-# What are the Instructions for the Essay?
+Page 4 link is here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405166
+
+# Page 5
+
+What are the Instructions for the EBO?
+Assignment Purpose:
+
+Develop skills to conduct successful research
+Effectively and efficiently identify quality resources in support of research
+Understand the importance of proper bibliographic management
+Master a citation style
+Research arguments to written up in an Essay Outline Worksheet (download and complete)
+
+1. Decide on an Essay topic from the choices below (same as those listed on the Essay Instructions page) an copy-and-paste this into the Worksheet:
+
+Should Canada pursue the recommendations of the Truth and Reconciliation Commission? Focus on 2-3 recommendations.
+On balance, has globalization’s impact been positive or negative? Compare the case of 2 countries.
+Should nuclear weapons be banned?
+Are global pandemics best managed by international cooperation or by states acting on their own?
+Is the American War on Terror a failure?
+Should Canada be accepting more refugees?    
+2. Bibliography section:
+
+Identify and access the following types of resources from 2010 onwards (important to find current research!):
+2. Minimum 10 Academic Scholarly articles (Article sources)
+note: full marks require more than the minimum
+no more the 2 articles from the same issue of a journal will count as separate entries
+NO Wikipedia, newspapers/news websites, social media postings, news magazines, government reports, think tank reports, etc. -- though not acceptable for this assignment (still, can be useful for background information)
+State which Style you are using: MLA 9 or Chicago 17
+NO APE, AMA, IEEE, etc.
+Enter your Scholarly Academic Sources into the provided EBO Worksheet document (note meeting the minimum, only gets you a minimum of grades)
+Ensure consistent use of the style, and accurate presentation of information = use only one citation style
+Follow correct formatting including proper indentation, correct punctuation, correct use of italics or underlining, and correct order of information
+Alphabetize your Sources
+3. Outline section:
+
+State your Thesis clearly – ensure it accords with the directions given about the Thesis on the "How do I Approach Writing an Essay for Political Science?" page
+State your Argument 1 to support your thesis
+State your Opposing 1 to support your thesis
+State your Argument 2 to support your thesis
+State your Opposing 2 to support your thesis
+Complete & Submit the “Essay Bibliography & Outline Worksheet” Word file
+➡️ Download this Word file at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
+1026F/G: Essay Bibliography & Outline Worksheet
+
+(when you click on the above, it will open a new window for download, etc.)
+
+
+
+Here is an Example of the EBO Grading Sheet:
+1026F/G: EBO Grading Sheet Example
+
+Download the ebo sheet here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
+Page 5 link https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
 ### **What is the Essay?**
 
@@ -1263,339 +1330,294 @@ etc.)**
 - I**f you have any questions, email or text Nig <nnarain@uwo.ca>,
   thanks**
 
-# EBO Frequently-Asked Questions (EBO FAQs)
+  
+# FAQ page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405171
 
-**"The difference between 're[A]{.underline}d it' and
-'re[D]{.underline}dit' is an A versus a D"**\
-***-- Nig Narain***
+EBO Frequently-Asked Questions
+(EBO FAQs)
+“The difference between ‘reAd it’ and ‘reDdit’ is an A versus a D” 
+– Nig Narain
 
-##### **Late Updated: Sep 4**
+Late Updated: Oct 1
+(Note that some of the direction the EBO Bot may give is not fully nuanced or correct, so it's your responsibility to review all the information posted on the OWL site to confirm the AI gave you correct information and correct it yourself, and even the AI Bot always cautions: "There may be errors in my responses; always refer to the course web page.")
 
-*(Note that some of the direction the EBO Bot may give is not fully
-nuanced or correct, so it\'s your responsibility to review all the
-information posted on the OWL site to confirm the AI gave you correct
-information and correct it yourself, and even the AI Bot always
-cautions: \"There may be errors in my responses; always refer to the
-course web page.\")*
+ALSO, topic-specific questions will be answered on the Essay-FAQ page, while more general EBO questions are discussed below.
 
-ALSO, topic-specific questions will be answered on the Essay-FAQ page,
-while more general EBO questions are discussed below.
+Q: Should I read the Essay pages and watch all the videos on how to do research?
+A: Yes
 
-1.  Should I read the Essay pages and watch all the Videos on how to do
-    Research?
+Q: Is this an annotated bibliography?
+A: No. Nowhere is it stated that this is an annotated bibliography, so don’t invent requirements. If you did write one, it will be disregarded and you must still meet all other assignment requirements.
 
-    a.  Yes
+Q: Can I change my sources as I do more research?
+A: Yes. Improve your sources and aim for stronger research.
 
-2.  Is this an annotated bibliography?
+Q: Can I change my essay topic from what I wrote about in the EBO?
+A: No. If you change your topic-question from the EBO, you will lose your EBO grade (0%), though your essay grade still stands.
 
-    a.  No
+Q: What if an academic article doesn’t have page numbers?
+A: All articles have page numbers — you may need to dig deeper. You must include them (e.g., pp. 725–738).
 
-    b.  Nowhere is it stated that it it an annotated bibliography, so
-        *don\'t invent requirements* (or mislead others, thanks)
+Q: Do I have to do one of the topics listed in the Essay Assignment?
+A: Yes. Choosing your own topic will result in a grade of 0 for both the EBO and/or Essay.
 
-    c.  If you did end up writing one, we will simply disregard it AND
-        you still must meet all other requirements for this assignment
+Q: Do I just need 10 sources for full marks?
+A: No. Ten is the minimum (worth a passing grade).
+10 = 2.5 (pass)
+11 = 3
+12 = 4
+13+ = 5
 
-3.  Can I change my sources as I do more research?
+Q: How do I come up with keywords?
+A: Watch the linked videos and review the PowerPoint. Use keywords and synonyms directly tied to your topic (not vague generalities).
+Example – Topic: War Crimes in Yugoslavia
+War crimes → genocide, ethnic cleansing, crimes against humanity
+International Criminal Court → UN, Security Council, The Hague
+Yugoslavia → Kosovo, Serbia, Croatia
 
-    a.  Yes!
+Q: Do I have to provide page numbers for articles?
+A: Yes. Example (MLA):
+Bousfield, Dan. “Revisiting Cyber-Diplomacy: Canada–China Relations Online.” Globalizations, vol. 14, no. 6, Aug. 2017, pp. 1045–59.
 
-    b.  Improve your sources and get better research
+Q: Do I need to check citations when using library generators or ezBib?
+A: Yes. Especially ensure journal names and page numbers are correct.
 
-4.  Can I change my Essay topic from what I write about in my EBO?
+Q: Can I list sources from 2009 and earlier?
+A: No. Sources must be published from 2010 onwards.
 
-    a.  If you change your essay\'s topic-question from what you wrote
-        for the EBO, you will get 0/zero for the EBO retroactively, i.e.
-        lose the EBO grade = 0% but still get your full Essay grade
+Q: Do I have to provide DOIs and URLs for scholarly academic journal articles?
+A: Not required. You may include them if you want, but no marks are added or deducted.
 
-5.  What if academic article does not have proper page numbers on the
-    document?
+Q: After I get my EBO back, can I change my arguments and sources as I do more research?
+A: Yes. Improve your sources and arguments as needed. You can replace weak sources from your EBO and strengthen your essay.
 
-    a.  Articles all have page numbers, so you have to do a little
-        digging to find the page numbers
+Q: Is the thesis one sentence only?
+A: Yes. Your thesis must be one clear sentence. Supporting arguments can follow in later sentences. Do not include counter-arguments or rebuttals in your thesis.
 
-    b.  You need to provide page numbers for all your articles, e.g.
-        725-738
+Q: Does my thesis only have to be a response to the question?
+A: Yes. It should directly answer the essay question. You may add more sentences after, but clarity is key.
 
-6.  Do I have to do one of the topics listed in the Essay Assignment?
+Q: Can I make more than 3 main arguments to support the thesis?
+A: No. Aim for depth, not breadth. The essay is 1500 words, so 3 strong arguments are expected.
 
-    a.  Yes
+Q: How many sentences per argument?
+A: 3–5 sentences per argument, counter-argument, and rebuttal. Maximum of 5 sentences each.
 
-    b.  Picking your own topic will result in a 0/zero being assigned
-        and zero/0 for your grade for the EBO and/or Essay
-
-7.  Do I just need only 10 article sources in total for full marks?
-
-    a.  No: a minimum is exactly that *a minimum*
-
-    b.  10 = 2.5/passing grade SO: 11 = 3, 12 = 4, 13+ = 5
-
-    c.  If you have less than 10, you will get less/lower marks
-
-8.  How do I come up with keywords?
-
-    a.  Watch the video links posted and check out the Powerpoint.
-
-    b.  Your keywords should come from the topic and you\'ll have to
-        work through what you want to focus on, etc.
-
-    c.  Your keywords must be relevant to the topic and not
-        generalities, etc., that would gives us a relevant result
-
-    d.  For example, if the topic was War Crimes and Yugoslavia:
-
-        i.  Your keywords & synonyms could be:
-
-            1.  war crimes \> genocide, ethnic cleansing, crimes against
-                humanity
-
-            2.  International Criminal Court \> UN, Security Council,
-                The Hague
-
-            3.  Yugoslavia \> Kosovo, Serbia, Croatia
-
-9.  Do I have to provide page numbers for articles?
-
-    a.  Yes
-
-    b.  Example in MLA style: Bousfield, Dan. "Revisiting
-        Cyber-Diplomacy: Canada--China Relations Online."
-        *Globalizations*, vol. 14, no. 6, Aug. 2017, pp. 1045--59.
-
-10. Do I have to check the Citation listing when I copy it from the
-    Library Citation generator, ezBib, etc.?
-
-    a.  Yes
-
-    b.  Check to make sure the name of the journal and the page numbers
-        are there in particular, as these two tend to be the info often
-        missing when there is an error in auto-generators
-
-11. Can I list sources from 2009 and earlier?
-
-    a.  No
-
-    b.  We are looking for sources published/written from 2010 onwards
-
-12. Do I have to provide DOIs and URLs for scholarly academic journal
-    articles?
-
-    a.  Not required but can include if you want to, and no marks taken
-        off or gained for having them
-
-13. After I get my EBO back, can I change my arguments and sources, as I
-    do more research?
-
-    a.  Yes!
-
-    b.  Improve your sources and get better research \> use the new
-        sources in your essay, and you can replace the sources from your
-        EBO if they no longer are as useful
-
-    c.  Make better or different arguments as you work through your
-        research, so do improve and change as needed
-
-    d.  Change your examples or case studies so you have a better fit
-        with/evidence for your arguments, etc.
-
-14. Is the thesis one sentence only?
-
-    a.  Yes
-
-    b.  One sentence AND your supporting arguments can be put come
-        afterwards (second, third, etc., sentences)
-
-    c.  If you want to add some nuance or parameters that are
-        reasonable, that is okay: \'I argue globalization has been
-        positive in terms economic globalization\' or \'\'This essay
-        argues nuclear weapons should not be banned for states but
-        should be banned non-state actors\'
-
-    d.  Your thesis is your main claim or position in response to the
-        question your essay is addressing, so it is the main point or
-        goal or purpose you are going to defend with arguments and
-        evidence
-
-    e.  You should state your thesis as a single sentence, such as "I
-        argue ..." or "The state's policy on gambling should be ..."
-
-    f.  If you have reasons or arguments in support of this position,
-        you should put those in the next sentence or sentences
-
-    g.  Don\'t provide your counter-arguments in the thesis, but you can
-        provide in your Introduction para
-
-    h.  Don\'t provide any rebuttals in the thesis or Introductory para
-
-    i.  Also, what you argue is up to you as long as your thesis is
-        reasonable and can be supported by the evidence in the sources
-
-    j.  If you want to open with a \'hook\' or \'teaser\' statement
-        before rolling into your thesis, etc., that\'s fine
-        [but]{.underline} save that for your Essay, e.g. \"If not for
-        globalization, would we have our computers, watches, phones and
-        the Good LIfe? However, globalization created for those who
-        produce the electronics and other stuff we consume a life that
-        is barely life, much less a \'good life\'. In this essay, I
-        argue \...\"
-
-15. Does my thesis only have to be a response to the question?
-
-    a.  Yes
-
-    b.  It is clearest if you simply state your thesis as a response:
-        \'I argue that the state should put limits on free speech\' or
-        \'This essay argues the American War on Terror has failed\'
-
-    c.  After having that done, you can add more sentences if you like,
-        but note an unclear thesis is not made clearer by adding more
-        sentences
-
-16. Can I make more than 3 main arguments to support the thesis?
-
-    a.  No
-
-    b.  Aim for depth: make you main argument supported by strong
-        arguments, evidence, etc., *which* needs you to have depth in
-        your arguments
-
-    c.  Reminder: this essay is 1500 words which is not a long essay
-
-17. How many sentences per argument?
-
-    a.  [3-5 sentences is fine per each]{.underline}
-
-        i.  Argument: 3-5 sentences
-
-        ii. Counter-argument: 3-5 sentences
-
-        iii. Rebuttal: 3-5 sentences
-
-        iv. DON\'T dump an entire paragraph or paragraphs for each
-
-        v.  *Goal: tell the reader what your arguing and why*
-
-    b.  5 sentences is a maximum
-
-18. Can I use bullet-points?
-
-    a.  Bullet-points are ok **IF** you write sentences and provide
-        proper and necessary information
-
-    b.  Best to follow the same as the sentences point above: 3-5 bullet
-        points
-
-19. Do I need to provide sources, citations or bibliography for the
-    Essay Outline?
-
-    a.  No
-
-    b.  If you do, that\'s fine but we won\'t add or take away from your
-        grade for this
-
-20. May I include my arguments or an elaboration?
-
-    a.  It is preferable not include them in the thesis but to provide
-        them in the sentences which follow your thesis
-
-    b.  However, some topics may actually be better served by doing so
-        (so it\'s your call in that case), such as \'I argue Western
-        European youth are not participating in formal politics because
-        elections are not live-streamed on Twitch and TikTok partying
-        features only EDM dub-step parties not political parties\"
-
-21. Do I have to use \'I\'? Can I say \'This essay argues\...\', \'My
-    argument is that\...\', \'The position taken here is\...\'
-
-    a.  Yes, those are all fine as long you are focussing on
-        [arguing]{.underline}, asserting, and making claims (not \'I
-        feel that\' or \'it shook me to see\')
-
-22. After my EBO was returned, I found other sources, etc., so do I need
-    to re-submit the EBO?
-
-    a.  No
-
-    b.  You should always be on look out for better and more useful
-        sources
-
-    c.  You don\'t need to check them with your TA but make sure you\'re
-        using academic sources
-
-23. If my EBO question is asking me to focus on two case
-    studies/examples, do I state them after my thesis?
-
-    a.  Yes
-
-    b.  
-
-24. Do I have to provide examples or case studies?
-
-    a.  If you If your question is asking you focus on case studies,
-        then it would be good to mention your selections after your
-        thesis or as part your arguments
-
-    b.  Not required in the arguments\' details but can be helpful
-
-25. Can I change my examples or case studies?
-
-    a.  Yes, BUT if your essay question has specific guidelines (e.g.
-        Western Europe), then your case studies must still conform to
-        that requirements
-
-26. What if I catch a last minute error and want to resubmit?
-
-    a.  You can [but only until]{.underline} the submission link
-        deadline can you resubmit a corrected version \> it will
-        override your old submission with the new one ONLY if submitted
-        by the deadline time
-
-    b.  No submissions after the link is closed
-
-    c.  Late Penalty submissions will override On-time penalty
-        submissons and the Late Penalty -10% will be applied
-
-    d.  No submissions or resubmissions via email will be accepted under
-        any circumstances
-
-27. What if the link shows Late after my submission goes through?
-
-    a.  If OWL uploads your file, but it rolls past the deadline, it
-        will just show as \"Late\" BUT *that Late* indicates OWL did
-        upload it so you\'re good and won\'t be penalized as late
-
-28. What if the link closes as I\'m submitting and does not show a
-    submission?
-
-    a.  If the link closes without your submission going through, then
-        it is considered as *not submitted*
-
-    b.  Don\'t wait to the last minute to submit as that is what will
-        cause this problem and you will be out of options
-
-29. What do I do if I missed the on-time submission deadline and the
-    link is closed?
-
-    a.  It\'s late SO keep working on it and then submit at the next
-        available deadline through the Late Penalty link
-
-30. What do I do if I missed the late submission deadline and the link
-    is closed?
-
-    a.  Unless you have academic consideration, you will NOT be
-        permitted to submit the assignment and will receive 0
-
-31. Can I use a style guide other than MLA 9 or Chicago 17?
-
-    a.  No
-
-32. Do I have to use MLA 9 Style Guide?
-
-    a.  Yes, unless you are using Chicago 17 Style Guide
-
-33. Do I have to use Chicago 17 Style Guide?
-
-    a.  Yes, unless you are using MLA 9 Style Guide
+Q: Can I use bullet points?
+A: Yes, but they must be full sentences. Limit 3–5 bullet points per section.
+
+Q: Do I need to provide sources, citations, or bibliography for the Essay Outline?
+A: No. Including them is optional but will not affect your grade.
+
+Q: May I include my arguments or elaboration in the thesis?
+A: Preferably not. Save arguments for sentences after the thesis. In some cases it may work, depending on the topic.
+
+Q: Do I have to use “I” in my thesis?
+A: You may use “I argue…”, “This essay argues…”, or similar. Avoid “I feel” or “It shook me”.
+
+Q: After my EBO was returned, I found other sources. Do I need to resubmit the EBO?
+A: No. You should always be seeking better sources, but no resubmission is required.
+
+Q: If my EBO question asks me to focus on case studies, do I state them after my thesis?
+A: Yes. Mention them after your thesis or in your arguments.
+
+Q: Do I have to provide examples or case studies?
+A: Only if your question requires them. Otherwise they are optional but can help your arguments.
+
+Q: Can I change my examples or case studies?
+A: Yes, as long as they still meet the requirements of your essay question.
+
+Q: What if I catch a last-minute error and want to resubmit?
+A: You may resubmit only until the submission link deadline. The new file will override the old one. No resubmissions by email.
+
+Q: What if the link shows “Late” after my submission goes through?
+A: If OWL uploads your file before the deadline but marks it “Late,” you will not be penalized.
+
+Q: What if the link closes as I’m submitting and it does not show a submission?
+A: Then it is considered not submitted. Submissions must be completed before the link closes.
+
+Q: What do I do if I missed the on-time submission deadline and the link is closed?
+A: Submit at the next available deadline through the Late Penalty link.
+
+Q: What do I do if I missed the late submission deadline and the link is closed?
+A: Unless you have academic consideration, you will not be allowed to submit and will receive 0.
+
+Q: Can I use a style guide other than MLA 9 or Chicago 17?
+A: No.
+
+Q: Do I have to use MLA 9 style?
+A: Yes, unless you use Chicago 17.
+
+Q: Do I have to use Chicago 17 style?
+A: Yes, unless you use MLA 9.
+
+Q: Do I have to list sources for each argument or opposing argument?
+A: No. You may keep track for yourself but it is not required in the essay outline.
+
+Q: Do I have to go to the library in person to do my research?
+A: No.
+
+Q: Do I have to read the sources in the library even if they are online?
+A: No. Once logged in through the library website, you can read them anywhere.
+
+# FAQ page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405171
+
+# EBO due date page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3411965
+
+ READ fully, please 
+
+EBO: Due Date; Submission Cautions, Caveats, Rules, etc.
+EBO On-time Submission:
+Due Date: Wed Oct 8 11:59pm
+No penalty leeway: Submit by Tue Oct 14 11:59pm 
+If you submit too close to 11:59pm, it may not go through in time and so your submission is not considered submitted
+Resubmission is permitted until Tue Oct 14 11:59pm
+your previous submissions will be over-written
+we'll mark your last/latest submission
+EBO Late Penalty -10% submission:
+Due Date: Wed Oct 15 11:59pm
+No further penalty leeway: Submit by Wed Oct 21 11:59pm 
+If you submit too close to 11:59pm, it may not go through in time and so your submission is NOT considered submitted
+FYI: 'further' here means no extra penalty on top of -10% will be applied if submitted by Wed Oct 21 11:59pm (after which point no submission will be accepted)
+Resubmission is permitted until Wed Oct 21, 11:59pm
+your previous submissions will be over-written
+we'll mark your last/latest submission so if you submit to this link after already submitting ot the On-time link, you will have the Late Penalty -10% applied to your EBO grade
+Note: -10% is a flat penalty; there are no part or daily penalties for the EBO (or Essay)
+NO EBO submissions are permitted AFTER Tues Oct 21 11:59pm without Academic Consideration
+General Submission Instructions, Directions, etc.:
+Submit only through our Course OWL site
+Submissions via email, courier, cloud drive linkshare, etc., will not count for submission
+If you email, courier, etc., your EBO under any circumstances, by default, it will not be considered submitted or accepted for grading regardless
+No EBO submissions are permitted AFTER Tues Oct 21 11:59pm without Academic Consideration
+If you do not submit the EBO Worksheet as posted, and filled in with your work, you will be assigned Zero so ensure you are submitting the proper document
+You can submit the Word document or else the PDF but not other versions or your own version of the document, and if you do submit an alternate version, you will be assigned a Zero
+Upload only Word or PDF files/attachments 
+File types: Word = .doc, .docx ; or PDF = .pdf 
+If you submite an unrecognized or unrecognizable file or file type: you will not be permitted to submit the correct file type later and will be assigned a Zero, so pay attention to the above warnings and instructions
+Do not submit these file types: Apple .odt, GoogleDocs .gdoc, Rich-Text Files .rft, Text .txt, Powerpoint .ppt/.pps/.pptx/.ppx, Excel .xls./.xlsx, Graphic .jpg/.jpeg/.png/.tif/.tiff/.gif 
+No links to drives, linked drives, clouds, etc.: Sharepoint, GoogleDrive, iCloud, Dropbox, etc. will count as submissions
+Only submission through appropriate our OWL site's Assignments' page link counts for submission, so no email, fax, dropping of hardcopies, couriers, etc., submissions are permitted for any reason
+Do not email, fax, drop off hardcopy, courier, etc., submissions to the Instructors or anyone else as this is not permitted; we are not required/responsible to let you know that it doesn't count for submission -- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned is not grounds for consideration, appeal, etc. 
+Note: the following are not grounds for resubmission or accommodation or for not being assigned a zero for your EBO submission
+If you submit an unrecognizable file or file that is not a Word or PDF file
+If you change your topic for your Essay from the EBO topic you had when you submitted your EBO, you will retroactively get 0 for your EBO
+If you don't check your submission before submitting to make sure it is the right version, right document, right file type, etc.
+You can go back and check once your submission goes into OWL so do verify what you submitted
+If you submit someone else's file/work as your own work -- file mix ups, etc., are NOT grounds for defence as you can check/verify your submission 
+If you submit a non-English document
+If you leave your submission as 'draft'/upload and don't press the final submission buttons
+If you go to rectify any of the above but run out of time and the link available for submission closes on you 
+If you submit a blank document/assignment
+If you submit a partially completed document/assignment
+If you submit an assignment for another course, etc.
+NOTE: this list is extensive but not exhaustive of reasons not permitted for resubmission, etc.
+Extensions:
+Can't use Undocumented Absence for this assignment
+Only through following the processes for Academic Consideration
+If you are seeking Academic Consideration, then you should not submit in the On-time link (or the Late Penalty link) and then submit later to the Academic Consideration submission link
+Academic Consideration submission link will be provided for you to submit separately from the regular links so await your access to the AC link for submission
+TA-Markers or others do not deal with extensions so don't email, etc., them -- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned for an extension is NOT grounds for consideration, appeal, etc. 
+TAs are not required/responsible to let you know they don't handle these matters, and if they do reply, they will simply tell you to read the Academic Consideration page
+If you already submitted to the On-time link, then your submission to the Late link will be replace that submission and the Late Penalty will be applied to your grade
+Do not submit to the Late link unless you want to replace your On-time link submission 
+If you submit to the Late link as well as the On-time link, your submission to the On-time link will be replaced with that submission and the Late Penalty will be applied to your grade
+Do not submit to the Late link unless you want to replace your On-time link submission 
+Note: Maximum Grade for any assignment in this course is 100%
+If you have any questions, email or text Nig nnarain@uwo.ca, thanks
+Flexible Deadlines & Accessible Education
+Accessible Education office has confirmed that since we are providing an on-time submission no-penalty leeway and for the late submission, flexible deadline accommodation for the EBO or Essay is not needed.
+
+If you have a medical or other grounds, then you will need to speak to your Accessible Education counsellor or Academic Counselling per the Academic Consideration page.
+
+EBO due date page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3411965
+
+# Essay instructions page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405168
+
+What are the Instructions for the Essay?
+
+What is the Essay?
+Our course is an is an Essay course, so you must research, write and submit a 1,500-word Final Essay.  The Essay is an Argumentative essay with Arguments, Objections and Replies. It should have a Thesis, or central argument/claim, 2-3  major arguments in support of the Thesis and supported with evidence and sources. To help you with this, you will complete and submit the Essay Outline and will receive comments and a grade.
+
+What is the Length of the Final Essay?
+The Essay should be 1,500 words. The maximum is 1700 words. The minimum permissible length 1300 words. Below 1300 or over 1,700, at the discretion of the Professors and/or TAs, will receive a penalty of -5% and will definitely be downgraded.
+
+NOTE: Essays less than 1000 will receive a maximum grade of 48%/F or less.
+
+How should I write the Essay?
+
+Read the “How should I approach Writing my Poli Sci Essay?” document on the Class OWL site. This document explains how to write an argumentative essay and you are responsible for knowing what is written in that document AND for following through in writing your essay accordingly.
+
+What are the Essay Topics?
+Should Canada pursue the recommendations of the Truth and Reconciliation Commission? Focus on 2-3 recommendations.
+On balance, has globalization’s impact been positive or negative? Compare the case of 2 countries.
+Should nuclear weapons be banned?
+Are global pandemics best managed by international cooperation or by states acting on their own?
+Is the American War on Terror a failure?
+Should Canada be accepting more refugees?
+NOTE: write your Essay in relation to the current time period, so for example, don’t write about the American War of Independence as ‘secession’ from England in 1770s
+
+How many Academic Scholarly Articles should I use in the Final Essay?
+As many as will help you make your arguments strong, evidenced, cited and proven, as well as opposing argument credibly presented and refuted. Still, you need to have used at least 7 academic scholarly articles cited in your Essay. If you don’t have at least 7 academic/scholarly sources cited in your Essay, your grade maximum will be 60% and less than 5 will likely be a failure. To help you with this, you will complete and submit the Essay Bibliography and Outline, and will receive a grade and feedback/comments.
+
+ NOTE: Essays less than 5 academic scholarly articles will receive a maximum grade of 48%/F or less.
+
+Reminder: grey literature, such as government sources, long-form magazines or news articles, research paper, NGO or corporate reports, dissertations, etc., will not be considered as academic scholarly articles, and don't use blogs, websites, etc., except for background information and research; you can cite these sources as well, that's fine, but they won't replace using and relying on scholarly articles for evidence, etc.
+
+How should I format the Essaay?
+Your Essay should be in 12-point Arial or Helvetica or Verdana or Calibri (avoid Times or Bookman, if possible, but no grades are lost for using a Serif font and should be double-spaced and left-justified.
+
+Generally, please format using 1” margins, so your essay will be about 5-7 pages. Bibliography/Works Cited go at the end of the essay. Note that we use Word Count so squeezing or expanding your margins serves no useful purpose at all.
+
+NO subheadings: learn to use Transitions between paragraphs and major sections.
+
+How are you grading my essay?
+Your essay will be graded according to the following criteria:
+
+Reasoning:
+Do you have a clear thesis? (your main claim in response to the question)
+Have you developed arguments to support your thesis?
+Have you selected reasonable objections?
+Do you have evidence from the sources to support your claims?
+Are your examples relevant, appropriate and sourced?
+Are your thesis, objections and replies and your arguments defended?
+Understanding:
+Have you responded to the question?
+Have you understood relevant ideas and issues?
+Have you explored objections fairly and charitably?
+Have you responded with reasonable replies to the objections?
+Did you discuss all required sources?
+Clarity and Organization:
+Can your arguments be understood and followed?
+Do your arguments, objections and replies connect and flow?
+Are your paragraphs ‘units of thought’?
+Have you edited your essay?
+Does your essay have few to none spelling and grammar errors?
+Citations and Referencing:
+Quality and appropriateness of your selected research materials
+Have you followed EITHER Chicago footnote/endnote style OR Modern Language Association (MLA) in-text bracket style?
+Have you provided page numbers for all your citations?
+Have you cited from most, if not all, sources?
+Have you properly used quotations for materials/text from your sources?
+Have you used Academic articles and books?
+While these are 4 key areas, each one is part of holistic assessment.
+
+When do I cite information?
+Cite anything that is an idea or evidence from your sources. Definitely cite any quoted information – that is, you are using the exact same words as your source. Remember: changing words is not sufficient to not require you to use quotes and cite the source! (It can also be plagiarism.) Thus, cite the source and page number every time you directly quote a source OR when you paraphrase an idea from a source OR when a particular idea or piece of information comes from the source (even when you don’t quote it directly).
+
+Essays without Chicago footnotes/endnotes or MLA in-line bracket citation will receive an additional –10% penalty regardless of grade achieved (e.g. earned 48% - 10% = 38%).
+
+Essays with poorly done Citations may be levied a -5% penalty regardless of grade achieved (e.g. earned 48% - 5% = 43%).
+
+Do I have to provide a Bibliography or Works Cited?
+You must include a Bibliography (Chicago) or Works Cited (MLA) identifying, in alphabetical order by surname, the readings you used in writing your essay. If you divide up your sources by source type (book or article), that is okay, although, technically not correct but you won’t lose marks.
+
+Essays without a Bibliography receive a –10% penalty regardless of grade achieved (e.g. earned 48% - 10% = 38%).
+
+Essays with poorly done Bibliographies may be levied a -5% penalty regardless of grade achieved (e.g. earned 48% - 5% = 43%.
+
+Good luck! … and Do Ask Us Questions!
+
+Essay instructions page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405168
 
 The following is the structure of the EBO submission file - students will access it in docx format - it is available on this page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
@@ -1674,7 +1696,7 @@ want)
 
 The following is an example of the grade sheet - students have access to it in a PDF form on this page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
-# Poli Sci 1026F/G — EBO Grading Sheet
+# Poli Sci 1026F/G — EBO Grading Sheet link to this file is here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
 **Name:** Bousfield, Dan  
 **Topic:** War on Terror  
@@ -1737,6 +1759,9 @@ The following is an example of the grade sheet - students have access to it in a
 - **EBO Grade:** **70.0**
 
 *Comments are either in your returned file or a separate file in that same folder.*
+
+Contents of the EBO grading sheet at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
 
 
 
