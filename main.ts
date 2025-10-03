@@ -17,8 +17,8 @@ type Section = {
   heading: string;
   start: number;
   end: number;
-  text: string;         // section body text
-  lessonUrls: string[]; // lesson/unit links from heading + body
+  text: string;
+  lessonUrls: string[];
 };
 
 function parseSyllabus(md: string): Section[] {
@@ -33,6 +33,7 @@ function parseSyllabus(md: string): Section[] {
     const heading = m[2].trim();
     const body = md.slice(start, end);
 
+    // Collect lesson links from BOTH heading and body
     const headingLinks = heading.match(LESSON_RE) || [];
     const bodyLinks = body.match(LESSON_RE) || [];
     const all = [...headingLinks, ...bodyLinks];
@@ -90,26 +91,22 @@ const SUPPORT_PATTERNS = [
   /scholarly (academic )?sources?/i,
 ];
 
-// Score a section against the assistant’s answer
 function scoreSection(answerLower: string, sec: Section): number {
   const hay = (sec.heading + "\n" + sec.text).toLowerCase();
   let score = 0;
 
-  // Strong patterns: award only if pattern appears in BOTH answer and section
   for (const re of STRONG_PATTERNS) {
     const ansHit = re.test(answerLower);
     const secHit = re.test(hay);
     if (ansHit && secHit) score += 30;
   }
 
-  // Supportive phrases: smaller weight
   for (const re of SUPPORT_PATTERNS) {
     const ansHit = re.test(answerLower);
     const secHit = re.test(hay);
     if (ansHit && secHit) score += 8;
   }
 
-  // Quoted or long snippets: if present in both, medium weight
   const snippets = extractQuotedSnippets(answerLower);
   for (const snip of snippets) {
     const needle = snip.toLowerCase();
@@ -118,16 +115,12 @@ function scoreSection(answerLower: string, sec: Section): number {
     }
   }
 
-  // Small boost if this looks like an FAQ
   if (sec.heading.toLowerCase().includes("faq")) score += 6;
-
-  // Small boost if the section actually has lesson links to attach
   if (sec.lessonUrls.length > 0) score += 3;
 
   return score;
 }
 
-// Select sections with the top score; tie-inclusive. Require a minimum score.
 function selectBestSections(answer: string, sections: Section[]): Section[] {
   const answerLower = answer.toLowerCase();
   let maxScore = 0;
@@ -144,7 +137,17 @@ function selectBestSections(answer: string, sections: Section[]): Section[] {
   return scored.filter(({ sc }) => sc >= maxScore - 1).map(({ s }) => s);
 }
 
-// Attach only the lesson/unit links from the best-matching section(s)
+// Strip any Brightspace lesson/unit links the model put in the body.
+// Also remove markdown links whose URL is a Brightspace lesson/unit, keeping just the link text.
+function stripInlineLessonLinks(s: string): string {
+  const mdLessonLink = /\[([^\]]+)\]\((https:\/\/westernu\.brightspace\.com\/d2l\/le\/lessons\/\d+\/(?:lessons|units)\/\d+)\)/g;
+  let out = s.replace(mdLessonLink, "$1");
+  out = out.replace(LESSON_RE, ""); // raw URLs
+  // collapse leftover multiple spaces and dangling spaces before punctuation
+  out = out.replace(/[ \t]+([.,;:!?])/g, "$1").replace(/[ \t]{2,}/g, " ").trim();
+  return out;
+}
+
 function attachLinksFromBestSections(answer: string, syllabusMd: string): string {
   const sections = parseSyllabus(syllabusMd);
   const winners = selectBestSections(answer, sections);
@@ -187,8 +190,7 @@ serve(async (req: Request): Promise<Response> => {
     return new Response("Missing OpenAI API key", { status: 500 });
   }
 
-  const courseFile = CONTENT_FILE;
-  const materials = await Deno.readTextFile(courseFile).catch(
+  const materials = await Deno.readTextFile(CONTENT_FILE).catch(
     () => "Error loading course materials file.",
   );
 
@@ -202,7 +204,8 @@ You have the full course materials below (from the file loaded at runtime).
 When answering student questions:
 - If relevant text exists, return it verbatim (quoted or in a blockquote).
 - Do not add prefatory phrases like "According to the syllabus" or "the syllabus says".
-- Only include Brightspace lesson/unit URLs (https://westernu.brightspace.com/d2l/le/lessons/...) tied to the exact section you quoted from.
+- Do not include any Brightspace lesson/unit URLs in your answer body; links will be appended by the system.
+- Only include Brightspace lesson/unit URLs tied to the exact section you quoted (the system will handle this).
 - Do not include supporting resource links unless the user explicitly asks.
 - Never include the same Brightspace URL more than once in a single response.
 - If multiple relevant Brightspace pages apply, include all of them once each.
@@ -230,8 +233,11 @@ ${materials}
   const baseResponse =
     openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
 
-  // Attach only the lesson/unit links from the best-matching section(s)
-  const withLinks = attachLinksFromBestSections(baseResponse, materials);
+  // 1) Remove any inline Brightspace lesson/unit URLs the model tried to include.
+  const sanitized = stripInlineLessonLinks(baseResponse);
+
+  // 2) Attach only the lesson/unit links from the best-matching section(s).
+  const withLinks = attachLinksFromBestSections(sanitized, materials);
 
   const result =
     `${withLinks}\n\nThere may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
