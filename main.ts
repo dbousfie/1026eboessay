@@ -40,13 +40,19 @@ serve(async (req: Request): Promise<Response> => {
   const messages = [
     {
       role: "system",
-      content:
-        "You are an accurate assistant. Always include the exact wording from the provided syllabus content (quote it verbatim), and you may add explanation after. Do not invent or attach source citations like 'Source: syllabus.md'.",
+      content: `
+You are an accurate assistant for a university course. 
+You have the full syllabus.md below. 
 
-    },
-    {
-      role: "system",
-      content: `Here is important context from syllabus.md:\n${syllabus}`,
+When answering student questions:
+- Quote the exact wording from the syllabus where relevant (verbatim).
+- Always include the Brightspace lesson/unit URLs (https://westernu.brightspace.com/d2l/le/lessons/...) tied to the cited sections.
+- Do NOT include supporting resource links (library guides, YouTube, PDFs, etc.) unless the user explicitly asks.
+- Never include the same Brightspace URL more than once in a single response.
+- If multiple relevant Brightspace pages apply, include all of them once each.
+
+Here is the syllabus content:\n${syllabus}
+      `,
     },
     {
       role: "user",
