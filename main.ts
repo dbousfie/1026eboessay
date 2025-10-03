@@ -6,6 +6,10 @@ const QUALTRICS_SURVEY_ID = Deno.env.get("QUALTRICS_SURVEY_ID");
 const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
 const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
 
+// Allow different bots to use different files; default to syllabus.md
+const CONTENT_FILE = Deno.env.get("CONTENT_FILE") || "syllabus.md";
+
+// Canonical “page” references = Brightspace lesson/unit URLs
 const LESSON_RE =
   /https:\/\/westernu\.brightspace\.com\/d2l\/le\/lessons\/\d+\/(?:lessons|units)\/\d+/g;
 
@@ -101,7 +105,7 @@ function attachLinksFromCitedSections(answer: string, syllabusMd: string): strin
   if (urls.size === 0) return answer;
 
   const lines = Array.from(urls).map((u) => `- ${u}`);
-  return `${answer}\n\nRelevant syllabus page(s):\n${lines.join("\n")}`;
+  return `${answer}\n\nRelevant course page(s):\n${lines.join("\n")}`;
 }
 
 serve(async (req: Request): Promise<Response> => {
@@ -131,8 +135,8 @@ serve(async (req: Request): Promise<Response> => {
     return new Response("Missing OpenAI API key", { status: 500 });
   }
 
-  const syllabus = await Deno.readTextFile("syllabus.md").catch(
-    () => "Error loading syllabus.",
+  const syllabus = await Deno.readTextFile(CONTENT_FILE).catch(
+    () => "Error loading course materials file.",
   );
 
   const messages = [
@@ -140,44 +144,43 @@ serve(async (req: Request): Promise<Response> => {
       role: "system",
       content: `
 You are an accurate assistant for a university course.
-You have the full syllabus.md below.
+You have the full course materials below (from the file loaded at runtime).
 
 When answering student questions:
-- Quote the exact wording from the syllabus where relevant (verbatim).
-- Only include Brightspace lesson/unit URLs (https://westernu.brightspace.com/d2l/le/lessons/...) that are tied to the exact section you quoted from.
-- Do NOT include supporting resource links unless the user explicitly asks.
+- If relevant text exists, return it verbatim (quoted or in a blockquote).
+- Do not add prefatory phrases like "According to the syllabus" or "the syllabus says".
+- Only include Brightspace lesson/unit URLs (https://westernu.brightspace.com/d2l/le/lessons/...) tied to the exact section you quoted from.
+- Do not include supporting resource links unless the user explicitly asks.
 - Never include the same Brightspace URL more than once in a single response.
 - If multiple relevant Brightspace pages apply, include all of them once each.
 
-Here is the syllabus content:
+Here are the course materials:
 ${syllabus}
       `.trim(),
     },
     { role: "user", content: body.query },
   ];
 
-  const openaiResponse = await fetch(
-    "https://api.openai.com/v1/chat/completions",
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${OPENAI_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: "gpt-4o",
-        messages,
-      }),
+  const openaiResponse = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${OPENAI_API_KEY}`,
     },
-  );
+    body: JSON.stringify({
+      model: "gpt-4o-mini",
+      messages,
+    }),
+  });
 
   const openaiJson = await openaiResponse.json();
   const baseResponse =
-    openaiJson?.choices?.[0]?.message?.content || "No response from OpenAI";
+    openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
 
   const withLinks = attachLinksFromCitedSections(baseResponse, syllabus);
 
-  const result = `${withLinks}\n\nThere may be errors in my responses; always refer to the course web page: ${SYLLABUS_LINK}`;
+  const result =
+    `${withLinks}\n\nThere may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
 
   let qualtricsStatus = "Qualtrics not called";
   if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
@@ -187,7 +190,6 @@ ${syllabus}
         queryText: body.query,
       },
     };
-
     const qt = await fetch(
       `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
       {
