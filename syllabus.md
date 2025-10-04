@@ -1762,6 +1762,26 @@ The following is an example of the grade sheet - students have access to it in a
 
 Contents of the EBO grading sheet at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
+This is the essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
+
+Essay assignment Due via OWL site Wednesday December 3 11:59pm; no penalty applied if submitted by Tuesday December 9, 2025, 11:59pm
+
+Late -10% Essay Due Wednesday December 10 11:59pm; no penalty applied if submitted by Tuesday December 16 11:59pm
+
+Concerning “Undocumented Absence” Academic Consideration:
+You do not need to submit a request for academic consideration if this Essay deadline cannot be met (self-attestation or otherwise)
+This is because an extension will be granted automatically, without penalty, to Tuesday, December 9 11:59pm, for those experiencing extenuating circumstances (e.g., illness, bereavement, etc.) that prevent submission on the Due Date of Wednesday, December 3.
+TO BE CLEAR: this does not mean the Essay is “really” due on Tuesday, December 9; it is due on Wednesday, December 3. But after Tuesday, December 9 at 11:59pm, the Essay is considered late. We will still accept submission until Wednesday, December 10 at 11:00pm, with a late penalty of -10% applied.
+The aforementioned also applies to the Late -10% Essay with respectively adjusted dates
+Again, any requests for academic consideration will not be considered if submitting between between Wednesday, December 3 and Tuesday, December 16 11:59pm because extensions were already granted and accounted for in the due dates and no-penalty lee way dates
+Per Senate Regulations: “An instructor may deny academic consideration relating to the timeframe submission of work where there is already flexibility in the submission timeframe (e.g., 72-hour submission window). This assessment flexibility must be indicated on the course outline” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? When flexibility in assessment exists and is clearly stated on the course outline, both undocumented absences and academic consideration requests with documentation may be denied” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+If you have significant extenuating documented circumstances, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
+If you have documented grounds for a late submission beyond Dec 16, in that case, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
+Those students who are accommodated with flexible deadlines through Accessible Education should check the OWL site for your particular AE dates and other details and notes
+
+# Essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
+
 
 
 
