@@ -1782,6 +1782,10 @@ Those students who are accommodated with flexible deadlines through Accessible E
 
 # Essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
 
+question: where do I upload the ebo?
+Answer: it will be available under assessments --> assignments closer to the deadline.
+
+
 
 
 
