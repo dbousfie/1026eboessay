@@ -1791,6 +1791,12 @@ Answer: the ebo is worth 10% of the final grade in the course
 Question: what should be the file name of the assignment?
 Answer: any file name is okay as long as it is in the appropriate format
 
+Question: after my assignment is graded can I resubmit it?
+Answer: no, there is only one submission permitted
+
+
+
+
 
 
 
