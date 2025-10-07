@@ -1788,6 +1788,10 @@ Answer: it will be available under assessments --> assignments closer to the dea
 Question: how much is the ebo worth of my grade
 Answer: the ebo is worth 10% of the final grade in the course
 
+Question: what should be the file name of the assignment?
+Answer: any file name is okay as long as it is in the appropriate format
+
+
 
 
 
