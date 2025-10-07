@@ -1785,6 +1785,10 @@ Those students who are accommodated with flexible deadlines through Accessible E
 question: where do I upload the ebo?
 Answer: it will be available under assessments --> assignments closer to the deadline.
 
+Question: how much is the ebo worth of my grade
+Answer: the ebo is worth 10% of the final grade in the course
+
+
 
 
 
