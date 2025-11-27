@@ -1782,6 +1782,429 @@ Those students who are accommodated with flexible deadlines through Accessible E
 
 # Essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
 
+
+# Essay FAQ page updated Nov 27 2025 https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405169
+
+Essay Frequently-Asked Questions (FAQs)
+
+Essay Frequently-Asked Questions (FAQs)
+“The difference between ‘reAd it’ and ‘reDdit’ is an A versus a D”
+- Nig Narain
+
+Last Update: Nov 27
+
+REMINDER:
+
+Essay grade is earned
+Every essay starts from 0/zero/scratch and earns its grade as it is read and assessed
+Essays don't start off 'perfect'/100% and go down THUS thinking your 80% is losing 20% from 100 is the WRONG way to approach this assignments' grading/assessment
+Deductions are made for particular issues but assessments start from 0/zero and earn a grade regardless
+General
+Can I change my Essay topic from what I write my EBO and Essay?
+No
+If you write your Essay on a different topic than your EBO, you get 0/zero for the Essay Outline and EPBRA retroactively
+Can I change my Arguments/Opposing/Sources from what I write in my EBO?
+YES
+Encouraged > do more research, work on the arguments, find better evidence and source 
+Can I change Case Studies from what I wrote in my EBO?
+YES
+If criteria are provided for what countries you can 
+Do I have to do one of the topic-questions listed in the Essay Assignment?
+Yes
+Picking your own topic will result in a 0/zero being assigned zero/0 for your grade
+Can use bullet-points?
+No 
+Essays are written in sentences and paragraphs as prose following rules of grammar, spelling, etc.
+Can my examples or case studies be my argument?
+No
+The question 
+Do I need to have a Cover page? 
+No but it can be useful to have a cover page with the Title of your Essay and your Citation Style
+We don't need your name or your TA's name as your file is under your name and your file will be sent to your TA for marking
+How do I use Transition Words between paras and why is this an important skill to learn?
+Read THIS from The Writing Center at University of North Carolina at Chapel Hill: https://writingcenter.unc.edu/tips-and-tools/transitions/
+Is there a List of Transition Words for me to use for my Essay?
+From WRITING AND COMMUNICATION CENTRE at University of Waterloo: https://uwaterloo.ca/writing-and-communication-centre/resources-transition-words (click Expand All to see their amazing list!)
+From The Writing Center at the University of Wisconsin – Madison at https://writing.wisc.edu/handbook/style/transitions/
+List from ThoughtCo.com: https://www.thoughtco.com/
+Shorter list from UWO Writing: http://writing.uwo.ca/img/pdfs/handouts_new/Transition%20Signals.pdf
+Do I have to have a clear thesis to do well on this Essay?
+Yes
+Should I state my 2 arguments in the Introduduction ?
+Yes
+State your thesis and then state your arguments
+Does word count matter more than # of pages?
+Yes
+Word count is what we assess so ensure you are meeting the word count minimums
+# of pages can be affected by font size, margins, spacing, and other factors 
+How many marks do I lose if I am over or under the word limit? 
+1500-word count
+We are permitting:
+below 1,300 words = -5% penalty
+above 1,700 words = -5% penalty
+This is means a leeway of 300-words under/over (or 10% word count leeway) with no penalty, but anything more gets a penalty most likely
+We do exercise discretion and best efforts in assessing this penalty
+What can I do if I’m still short of the word count?
+Evidence, examples with citations
+Most essays who are low/below word count also usually have no to poor evidence cited from sources, so read like an opinion-piece rather than an argumentative essay
+What can I do if I’m over the word count?
+Trim passive sentences, long quotes, repetitive sentences, unnecessarily excessive replicated verbiage
+E.g. ‘unnecessarily excessive replicated verbiage’ could be replaced with ‘repeated big words’ – which also makes the point clearer
+Remove adverbs, adjectives, etc., that are don’t add anything, e.g. ‘there are many reasons for this as it is involving’ = ‘the reasons for this include’
+Can I use headings & sub-headings? 
+NO
+If you initially use them to organize the essay, then do delete them before you submit your final copy
+When you start your essay you may organize it by using some headings & sub-headings BUT you must remove them before submitting your final copy
+Replace the headings with Transitions, as discussed in the "How To Write..." document 
+Here is a list of various Transition words: https://writing.wisc.edu/handbook/style/transitions/
+Introduction
+
+Does my Introduction para have to have the Essay Question?
+Yes,
+Will ensure you actually respond to the question
+Should state question before you start your thesis
+Can state passively as well:
+Active: "Is a federal system of state or a unitary form of state better?
+Passive: There is debate about whether a federal state or a unitary state is a better form of state. 
+Can I use "I" as in "I would argue", etc.?
+Yes.
+Personal pronouns are permitted; BUT be careful to write arguments, e.g. "I argue", "I assert", "I claim", and NOT feelings, e.g. "I feel", "I believe", "I love", "I hate" -- those later words often lead to moving away from evidence and arguments into unprovable and untenable areas
+Can I say 'This essay argues...', 'My argument is that...', 'The position taken here is...' instead of "I ..."
+Yes, those are all fine as long you are focussing on arguing, asserting, and making claims (not 'I feel that' or 'it shook me to see')
+ Does my Introduction para have to my Thesis stated?
+Yes
+State clearly your position in response to the question, and ensure you are answering the essay question
+Thesis can be a simple: "I argue nuclear weapons should be banned"
+Thesis can be complex: "This essay asserts nuclear should not be banned because ..."
+Can I change sides in my thesis?
+Yes
+Welcome to change sides from what you asserted in the EO
+Does my Introduction para need to have my 2 arguments stated?
+Yes
+May attach them to the thesis, .e.g. "This essay asserts nuclear should not be banned because ..."
+May be their own separate sentences after thesis
+Should not be longer than a sentence for each one, but short statement of each is just as fine
+Does my Introduction need to have my Objections and Replies?
+No
+Also fine if you choose to state them in the Introductin
+Avoid writing lengthy write-up of these in the Introduction
+Don't write more than 1 para for the Introduction
+Should I state my Case Studies?
+If they are required as part of your question, you should state them in the Introduction para
+Does my Introduction have to be just one para?
+Yes
+Don’t waste words with excessive background, lay-up, etc. – you can do this in a para after the Intro 1st para
+May I write 2-3 Introduction paras?
+No
+If I want to provide background and definitions, may I put them in a separate para?
+Yes, put them after yoru Introduction para
+Avoid a very long or extensive background/definition para
+Argument-Objection-Reply
+Can I change my arguments as I do more research?
+Yes!
+Improve your sources, get better research and make better arguments
+Do I need to follow the A-O-R structure for the Essay?
+Yes
+Ensures you make and evidence an Argument, explain and explore the Objections, and provide a thoughtful Reply
+For AOR, would these three be one paragraph each? 
+It is best to write each A-O-R in 3 separate paras
+Argument should be longer than Objection; Objection should be longer than Reply
+Give depth and provide evidence to your arguments, objection, reply as well
+One structure you may consider: 
+Argument: 2 paras, 1 for argument, 1 for evidence(s) for the argument
+Objection: 2 paras, 1 for objection, 1 for evidence(s) for the objection
+Rebuttal: 1 para for countering the objection with evidence
+Do I have to address the questions theoretically or can I focus on the just arguments? 
+Don't try to tackle theory, unless you truly want to and will work to understand the relevant theory properly
+Focus on your arguments, providing evidence for them, and ensuring you have citations from sources 
+Can I make more than 2 main arguments to support the thesis?
+No
+It's like a good date: 2 good date events/things are better than 10 events packed in and no time for depth of experience
+Can I just write about one case study as my argument(s) or thesis?
+NO
+A case study or example is NOT an argument
+Thesis should NOT be a statement indicating one case is better than another case as it's about the topic, not the case study
+Don't write: I argue India's parlimentary system is more democratic than France's semi-presidential system
+Do write: I argue a parlimentary system is more democratic than a semi-presidential system. I argue a parlimentary system is more democratic than a semi-presidential system. I will compare India and France.
+Also, better to compare two cases with depth, than touch-n-go a bunch of cases, so stick to just 2 case studies
+Put forward arguments, and then your case study or examples back up that argument
+So, use the example or case study to prove an argument BUT don't claim the example is the argument
+ALSO, you can also state in the introduction that you are primarily focusing on a case or example, but note that only using one case or example leaves your argument open to critique that you have only one supporting case example; so better to dig into the one case BUT ALSO draw on some other examples as well (even if just a little bit to show another example to bolster your arguments and essay overall)
+How should I use my cases?
+You may use one case for your argument, the other for the counter
+You may use one case to provide for your argument and its counter-argument
+You may examine both cases in each of your arguments BUT be cautious that you still have sufficient examination of the cases
+Can I re-use my EBO text word-for-word (copy-and-paste) into my essay for my arguments, etc.?
+Yes
+It's not self-plagiarism; it would be plagiarism if you submitted the essay and then use from your own submitted essay in a paper next year or in another class
+Conclusion
+Should my Conclusion have the Question, Thesis, and a summary of my arguments, objections and replies?
+Yes, and this would be in the past tense as you’ve ‘done’ all this in the Essay
+Should I introduce new arguments or evidence?
+No
+May I point to implications of my arguments?
+Yes 
+May I point to other questions, queries, research, etc., which could be done by someone else?
+No
+Do I restate my thesis in the Conclusion?
+Yes
+Don't change your thesis or arguments at the end as that shows that
+Conclusions should tie up the Essay, arguments, summarize any key evidence 
+Sources: Evidence
+In addition to Scholarly Academic sources, may I use non-academic sources such as magazines, website, policy briefs, working papers, etc.
+They will not count towards your academic sources' use and citing
+Yes but try to find academic sources for the same info if possible
+If you need current statistics, policies, etc., these can be useful but avoid over-reliance (or only source) on them for data, etc.
+Remember to check that their info is valid; for example, in 2003, many newspapers, magazines, etc., reported Iraq had nuclear weapons, but late 2003, they were printing retractions and corrections to this information
+Avoid blogs, op-eds, etc.
+Government sources are also fine
+NOTE: pay attention to citation styles for websites as that is done differently than for scholarly articles or scholarly books
+FYI: scholarly articles from websites cannot be cited as website but must be properly cited as scholarly articles AND same applies for e-books
+Can I use sources from 2010 and earlier?
+Sources before 2010 will NOT count for the minimum number of academic sources
+It is recommended to use more contemporary/newer sources, closer to the current time/last decade
+If you use old sources, acknowledge they are old and why you used them, e.g, As Ching-Mei, writing in 1999 just after India's and Pakistan's nuclear tests, notes China's response was ... (Ching-Mei, 529)
+How do I show the Marker I actually used a source in my Essay?
+Cite it! by:
+Quoting from it
+Paraphrasing forn it
+Drawsome information from it like statistic
+Indicating the source generally supports or alludes to a claim you are making
+Reminder:  you need to provide citations regularly in your Essay
+How many academic scholarly journal article sources minimum should I have used in my Essay?
+7 is the minimum, and that means you drew on the 7 academic scholarly journal articles and cited them
+A minimum is not sufficient to do well or great
+More than 7 will likely mean you'll do better and provide better support, evidence, arguments, analysis
+Will I do better if I use more than 7 academic scholarly journal articles in my Essay?
+Yes
+To do well, you'll need to use more than 7 academic sources
+Historically, those who use predominantly, if not all, academic sources, and more than 7, write the best essays and do well
+Can I change my sources from the ones I used in my EBO as I do more research?
+Yes!
+Improve your academic scholarly sources and get better research = better analysis & data = better arguments and essay
+Note: changing sources does not always mean 'better' so make sure you don't mistakenly get rid of good sources
+Do I have to have certain mix of scholarly sources?
+No; you can use books or articles as you see fit
+Reminder: non-scholarly sources are fine, but you need to be largely using scholarly sources
+Do I have to use all or most the sources for the topic on which I am writing?
+Yes, please use all or most the sources; BUT they don’t have to be used equally
+You may end up focussing some, but figure out how to substantively incorporate the other academic sources as well even if just for some stats, to back up further an argument from another source, or use it only for an objection to one or both of your arguments
+Using less than 7 drops you below the minimum threshold
+Can I use graphs, figures, and charts?
+Yes BUT ensure you reference them and don't just plop them into your essay without context or connection, e.g. you have a graph of youth voting trends, you'd write something like 'As seen in Chart 2, the overall pattern since 1990 in Canada has been ...' (Stats Can)
+If it's from a book or article, both Chicago and MLA require page numbers for 
+Can I use personal examples and anecdotes? 
+No
+Not evidence or proof, as it'll be just unsubstantiated opinion or descriptive anecdote
+We cannot check or verify your personal example, circumstance or situation, so we cannot confirm what you are claiming about your experience as evidence or proof of a point. It is one thing to say, "I was walking late at night and thinking about the comment someone made to me that made me think about whether there is a right to free speech" versus "I was walking late at night with friends, and some rando yelled something nasty at us; but me and my five friends agreed that in Canada they had a right to free speech even if we were insulted, so that proves there is right to free speech as me and my friends all agreed" -- this second sentence is long and rambling, and most importantly, it is not proof or support either
+This includes: stories about your life or those of others or fictionalized accounts
+You need ethics approval to quote a person with whom you have spoken/interviewed/etc., so this is a huge problem if you don't follow the U's rule on interviewing rules, protocols, etc.
+Can I use anecdotes, family stories, conversations with my friends, or examples from my personal experiences as evidence or proof? 
+NO. At best, they can be a short hook or attention-catcher to pique the reader's interest in the Intro, BUT they are NOT themselves arguments or evidence
+You need ethics approval to quote a person with whom you have spoken/interviewed/etc., so this is a huge problem if you don't follow the U's rule on interviewing rules, protocols, etc.
+May I use any of the Textbooks for BACKGROUND or IDEA information? 
+ONLY in a LIMITED and MINIMAL WAY
+You can cite a particular idea to from the textbooks but don't use the textbook as evidence, e.g. cite Wolff IPP explaining Mill on the 'harm principle' but don't use Wolff's evidence/example/arguments/objections/etc.
+Using and citing Textbooks will not count for the minimum academic sources, verification for your claimes, etgc.
+Can I use a TED Talk, YouTube video, etc.?
+Not recommended
+A Ted Talk or reasonable YouTube video, etc., (not an unreasonable video source( would be treated like any other non-scholarly source
+Often, the TED presenters have book, etc. to which you can look for the info and points they are discussing so recommend finding a written record of their points if possible
+Technically you need to have a transcript, and you need to cite the timestamp (start and finish) for the source, and a narrower time stamp for a quote or paraphrase
+Ensure you provide all the relevant info as per MLA or Chicago style (author, title, name of conference/convenor, URL, etc.
+Again, TED talks are broad discussions, usually with one or two examples or anecdotes, so you don't get the full detailed account as you would from a written piece
+May I cite Lectures?
+No
+May I use or cite my TA comments on my EBO as evidence, etc.? 
+NO 
+Sources: Citations
+Should I state my Citation Style -- MLA or Chicago -- on the top of my first page or on my cover page
+Yes
+Please make your Essay's Citation Style clear somewhere at the start of your Essay, whether you have a cover page or not
+Can I change my Citation Style from my EBO to the other one?
+Yes
+Either way, ensure you use either MLA or Chicago
+Do I have to provide page numbers for articles? 
+Yes
+Both Chicago and MLA require page numbers
+No having page numbers is the same as NOT having a citation may be considered as 'no citations' but definitely will be heavily downgraded
+Do ALL scholarly sources need page #s in the citations?
+YES
+Always provide page numbers for your citations of scholarly sources
+Both Chicago and MLA require page numbers
+If my scholarly sources is from a website, like Weldon, Sage journals, etc., doo need page #s in the citations?
+YES
+Always provide page numbers for your citations of scholarly sources
+Both Chicago and MLA require page numbers
+Do not treat scholarly sources as citations like web-sources which follow a whole different style -- the source may be found on/through  
+Do I cite at the level of sentences not paragraphs? What if it is all from the same source?
+Cite always at the level of the sentence, even if it's the same source 3 sentences in a row, etc., you cite in each sentence
+Do not do one citation set at the end of a paragraph as that will not be clear as to what you are citing and where in that para (quote? paraphrase? idea referenced?) and will be downgraded
+Do I have to provide page numbers for chapters from edited books/e-books? 
+IF it's an edited book from which you are using certain chapters, you should provide page #s for the chapter only
+Example in MLA style:  Bousfield, Dan. "Faith, Fantasy, and Crisis: Racialized Financial Discipline in Europe". Psychoanalysis and the Global. Ed. Ilan Kapoor, University of Nebraska Press, 2018, 29-43.
+What if something does not have proper page numbers on the document, what should I do to cite?
+Articles all have page numbers, so you have to do a little digging to find the page numbers
+You need to provide page numbers for all your articles, e.g. 725-73
+Google to see if it has been cited somewhere else and maybe it'll give up 
+If I’m quoting a source that is inside another source, do I have to cite the original source or the source I got it from?
+The source you got it from, e.g. Beier had argued that “the TRC has …” (Biswas-Mellamphy, 52) = this tells the reader you got the Beier quote from the Biswas-Mellamphy source
+It would be dishonest to say you read the original source when you did not
+It would be protective, in case the source you got it from got their other source’s quote, info, etc. wrong, you’d not be in trouble for that
+What if I have multiple citations for the same sentence?
+The all go in the same citation but separate them with a semi-colon:
+MLA: (Jones, 52; Morrison, 355; Westmacott, 1789)
+Chicago: 1. Jones, 52; Morrison, 355; Westmacott, 1789.
+Do I have to divide up my sources in my Essay by source type?
+No
+Bibliographies/Works Cited should be single alphabetized list of sources
+You will be downgraded for not alphabetizing, indenting, missing publication information, etc., for a proper citation same as the EBO
+Does the Bibliography or Works Cited count in the Word Count?
+No
+What Word Count leeway is given for the Works Cited or Bibliography
+Take approx. 100 words off your Word Count = one page single-spaced approximately < depends on the number of sources you have in your WC or Bibliography (if you only have 2 sources, that's like no more than 30-40 words)
+Do MLA in-line/bracket Citations count for the Word Count? 
+No
+So, this will likely be about max. 100 words as well
+NOTE: If you are using Footnotes/Endnotes, TURN OFF the counting of Footnotes/Endnotes in your Word Count
+Do I have to check the Citations listing when I copy it from the Library Citation generator, ezBib, etc., into my Bibliography or ?
+Yes.
+Check to make sure the name of the journal and the page numbers are there in particular, as these two tend to be the info often missing when there is an error in auto-generators 
+If I'm using MLA Works Cited, may I still list my sources I referenced/read even though I did not actually cite them in the Essay?
+Yes, that's fine
+For our purposes, we are allow Works Cited to be more like Chicago's Bibliography model (which does not require all sources to have been cited in the essay text)
+Should I provide both inline bracket citations MLA citations and footnotes/endnotes Chicago citations?
+NO!
+Use only 1/one citation style (also affects your Works Cited and Bibliography style, which should match the style you are using)
+Use inline bracket citation OR footnotes OR endnotes -- don't use more than 1/one style!
+Are sources only counted as meeting the minimum academic sources only if they are cited?
+Yes
+If you don't use and cite a source, it is not going to be counted 
+Should I provide both inline bracket citations MLA citations and footnotes/endnotes Chicago citations?
+NO!
+Use
+Should I provide both inline bracket citations MLA citations and footnotes/endnotes Chicago citations?
+NO!
+How many citations per page should I have?
+There is no fix number needed
+You do need to ensure you are citing other people's ideas, where you got some lesser-known fact, where you are drawing an argument from, what is the source of your claim or evidence or quote
+Usually, about 5 citations per page to show you can deploy your sources well and provide support for your claim, but your actual number may be more or less?
+Is there a such thing as 'overciting'?
+Cite appropriately and show you know how to cite
+If you keep citing everything everywhere endlessly your essay will appear to have none of your ideas or analysis or thoughts
+Formatting & Organization
+Should I make time to edit?
+Yes
+Aim to be clear and succinct your writing, as expanding interconnected sentences and complexifying language choices just obfuscate from your intended argumentation (see what I did there: should've edited that ...)
+Choose clarity: an essay is likely to do better if the reader TA-marker can understand what you are arguing, etc. -- indeed grade on essay (more) is correlated to the inverse of time taken to get through it (less
+Do I need a separate title page?
+No but you are welcome to have one
+For either Chicago or MLA you can do so but not required
+What information is recommended I put at the top of my first page or on a title page?
+Your Name
+Your TAs Name
+Put Prof's name (one or both of us)
+Title of your Essay -- can be as simple as "Free Speech" or complex like "TikBallot? InstaVote? Countering Declining Youth Participation in Formal Politics in North America"
+Citation Style (either MLA or Chicago)
+As this is an electronic submission via OWL, so while we have info 1-3 known to us but it's good to get in the habit of writing a formal top page or title page
+Submission
+Is there a particular file-name format I have to use?
+No
+Use only alphabet/letters and numbers, e.g. "PoliSci Essay Nig 1"
+Don't use special characters like: *, !, %, etc.
+Don't use a Period/'.' in your file name as that WILL mess up the file extension, etc.
+Can I submit an Apple/Pages file?
+No 
+Only Word .doc or .docx OR PDF
+Can I submit a Google doc file?
+No 
+Only Word .doc or .docx OR PDF
+Can I submit an RTF file?
+Not recommended as it will lose formatting, etc. 
+Only Word .doc or .docx OR PDF
+Can I submit a Text file?
+Not recommended as it will lose formatting, etc.
+Only Word .doc or .docx OR PDF
+Can I submit an OneDrive file/folder link?
+No
+Can I submit an Google file/folder link?
+No
+Can I submit an OneDrive file/folder link?
+No
+Can I submit an AmazonDrive file/folder link?
+No
+Can I submit an OneDrive file/folder link?
+No
+Can I submit an DropBox file/folder link?
+No
+I should ONLY submit a Word .doc/.docx or PDF file?
+Yes
+Should I check the OWL site submission to make sure I submitted the right file, the right version, the right document, etc.?
+Yes
+What if I catch a last minute error, then can I resubmit?
+You can but ONLY UNTIL the deadline on the submission link can you resubmit a corrected version > it will override your old submission with the new one ONLY if submitted by the deadline time
+No submissions after the link is closed
+What if the link closes as I'm submitting?
+If you are uploading, and OWL is uploading your file, but it rolls past the deadline, it will just show as "Late" BUT that Late indicates OWL did upload it so you're good and won't be penalized as late
+What do I do if I missed the on-time submission deadline and the link is closed?
+It's late SO keep working on it and then submit at the next available deadline
+What do I do if I missed the late submission deadlines and the link is closed?
+Unless you have accommodation, you will NOT be permitted to submit the assignment and will receive 0
+Is the Late Penalty per day or a flat/one-time penalty?
+THE LATE PENALTY IS A FLAT -10% PENALTY
+Draft Checker
+How do I make sense of the Draft Checker's results, i.e. how do I interpret them?
+
+Generally, you want LESS THAN 15% OVERALL match
+If you have a whole bunch 3%'s or less adding up to a large number, that's not an issue
+Generally, you want NO SINGLE SOURCE to be over 3% but definitely beyond 5% is an issue
+You can check your Word Count either in Document Viewer by clicking the "Circled-i" in the bottom left; or in top mast head under Text-only View
+Bibliography and Quoted materials (if properly in quotes, but not bloc quotes) have been excluded
+Specific to each Essay Question
+1.Should Canada pursue the recommendations of the Truth and Reconciliation Commission? Focus on 2-3 recommendations.
+
+Can I do more than 3 recommendations?
+No
+Should I explain each recommendation briefly before arguing for pursuing them or not?
+Yes; a brief summary will let the Reader know what you understand to be the recommendation which you will be discussing
+2.Should nuclear weapons be banned?
+
+Can I argue only some types of nuclear weapons should be banned?
+Not recommended because you'll have to develop and show in-depth knowledge of the types of nuclear weapons and technology, so this will be difficuly task to sort through and do well
+Is this about states banning nuclear weapons only?
+No; while state level bans, which is basically a state agreeing it won't develop nuclear weapons, this question about a global ban
+Should I be discussing UN efforts to ban nuclear weapons?
+Sure BUT you can also discuss efforts by states and non-governmental organizations as well
+3. Are global pandemics best managed by international cooperation or by states acting on their own?
+
+Can suggest both international cooperation and states need to work together?
+You still need to be clear to the Reader which one are you suggesting is to be dominant because suggestion both/equal is not a clear thesis
+Suggesting they work together, ask yourself which one them needs to dominate/control
+Do I have to suggest a particular international organization or organizations, like the WHO or UN, etc., manage?
+No
+Do I have to suggest a particular state or states, like Russia, Brazil, Togo, Trindad & Tobago, etc., manage?
+No
+4. Is the American War on Terror a failure?
+
+Does the paper have to about the 'War on Terror' or can I just talk about terrorism generally?
+It's specifically about the War on Terror, so you need to ensure you understand the WoT and perhaps a para explaining it so you and the Reader are on the same page in your understanding about the WoT
+5. Should Canada be accepting more refugees?
+
+Are refugees the same as immigrants?
+No
+Are asylum-seekers the same as refugees?
+Yes
+Are refugees the same as displaced-persons?
+Not exactly, so stick with refugees
+Is the question about specific refugees like from Sierra Leone, Sri Lanka, South Africa, Venezuela, Ukraine, etc?
+No
+Can I discuss refugees from anywhere in the world?
+Yes BUT note the refugees should be one coming to Canada
+Can there be refugees from countries Canada does not recognize as refugees, such as Americans or Chinese or Brazilians or Russians?
+Theoretically yes, but focus on the groups Canada has identified as refugees so that you have academic works on the matters you want to discuss
+
+Other questions:
+
 question: where do I upload the ebo?
 Answer: it will be available under assessments --> assignments closer to the deadline.
 
@@ -1793,6 +2216,7 @@ Answer: any file name is okay as long as it is in the appropriate format
 
 Question: after my assignment is graded can I resubmit it?
 Answer: no, there is only one submission permitted
+
 
 
 
