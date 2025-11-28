@@ -1842,7 +1842,7 @@ How many marks do I lose if I am over or under the word limit?
 We are permitting:
 below 1,300 words = -5% penalty
 above 1,700 words = -5% penalty
-This is means a leeway of 300-words under/over (or 10% word count leeway) with no penalty, but anything more gets a penalty most likely
+This is means a leeway of 200-words under/over (or 10% word count leeway) with no penalty, but anything more gets a penalty most likely
 We do exercise discretion and best efforts in assessing this penalty
 What can I do if I’m still short of the word count?
 Evidence, examples with citations
@@ -2216,6 +2216,7 @@ Answer: any file name is okay as long as it is in the appropriate format
 
 Question: after my assignment is graded can I resubmit it?
 Answer: no, there is only one submission permitted
+
 
 
 
