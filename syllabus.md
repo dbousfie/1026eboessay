@@ -1782,6 +1782,55 @@ Those students who are accommodated with flexible deadlines through Accessible E
 
 # Essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
 
+# Essay  draft checker page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405164
+
+Draft Checker:
+Directions & How to Use your Report
+NOTE: Submission to the 'Draft Check' link does not count for Submission of the Essay
+NOTE: 
+REMINDER > All relevant links are on this OWL site
+ONLY submit Drafts for THIS CLASS -- if you run a report for another class, your other professor/TA will see that you submitted here, will request a verification report, and then they can charge you with Academic Misconduct Penalties, etc., and the penalty may be: a 0/zero for their assignment and/or our class Essay, and/or a failing grade for one or both courses, etc.
+You must upload a WORD or PDF > only use these file types: Word (.doc, .docx) or PDF (.pdf)
+Turnitin does not recognize:
+Apple .odt files
+GoogleDocs files
+Links to file on Sharepoint, GoogleDrive, iCloud, Dropbox, etc.
+Same cautions are already stated on the Essay page
+Resubmission: Unlimited until until due date for that link
+NOTE: after 3 report generations, reports generate after 24 hours
+Depending on volume, your next report may take a couple of hours to generate SO submit earlier rather than closer to deadline
+Depending on volume, your next report may take a couple of hours to generate SO submit earlier rather than closer to deadline
+Reading your results: < read this carefully
+Watch this Video from Turnitin which shows how to look over your Report, starting at 3:50pm: 
+
+
+Note: you can access your Report through this page, not through the Turnitin site, etc.
+Flags: Student View flag may come up  as up Red SO go into the Feedback window to see the actual scores -- don't base your assessment only on the flag colour
+Generally, you want LESS THAN 15% OVERALL match
+For any source, Turnitin takes any result below 1% as still being 1% so if you have 24 sources x 1%, it will show 24%, so don't worry about that
+If you have a whole bunch of sources 3%'s or less adding up to a large number, so don't worry about a whole bunch 3% or lower
+You do not want any SINGLE SOURCE to be over 3%, but if it's over 3%, just work on fixing it  (quotation marks, citations, paraphrasing, etc.)
+You can check your Word Count either in Document Viewer by clicking the "Circled-i" in the bottom left; or in top mast head under Text-only View
+Bibliography materials (if properly in quotes, but not bloc quotes) have been excluded
+It IS POSSIBLE to get 0/zero or single digit numbers for your Feedback analysis
+NOTE: you should be working through this to assess your paper as this is A SKILL you need to develop (and it's a good one!) = assessing reports for what matters, understanding criteria, writing better, ensuring you learn how to do citations, etc.
+THUS: emailing us to ask if 'you've plagiarised', etc., is not the way to go: TRUST YOURSELF to read over the above criteria, look over your report, etc.
+How do I avoid Plagiarism? How and when do I Paraphrase?
+Paraphrasing
+What is Paraphrasing? It is not a phrase with a parachute! How can you use the ideas in books or articles without plagiarizing? Both of these resources show you how to do it properly and with examples.
+
+Click here: https://www.lib.uwo.ca/tutorials/paraphrasing/index.html
+
+Check out this Video by Scribbr: "How to Paraphrase in 5 Easy Steps"
+
+Plagiarism
+Info from Western Libraries
+
+Check out this Video by Scribbr: "How to Avoid Plagiarism with 3 Simple Tricks"
+
+if you have any questions, email or text Nig (not your TA), thanks.
+
+We will not confirm that your file 'is fine', 'needs work', etc., as this is about you using your judgement and doing the necessary work to learn to do this yourself.
 
 # Essay FAQ page updated Nov 27 2025 https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405169
 
@@ -2216,6 +2265,7 @@ Answer: any file name is okay as long as it is in the appropriate format
 
 Question: after my assignment is graded can I resubmit it?
 Answer: no, there is only one submission permitted
+
 
 
 
