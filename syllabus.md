@@ -10,7 +10,7 @@
 
 #### **There is also a Bot which can be used to answer many questions, and do email us if you have other question**
 
-The link to page 1 is here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3405158
+The link to page 1 is here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 # Page 2
 # Scaffolding: Why an Essay AND an EBO?
@@ -75,7 +75,7 @@ of instructional scaffolding\",
 Becton Loveless, \"Scaffolding in Education\",
 <https://www.educationcorner.com/scaffolding-education-guide.html>
 
-Link to Page 2 information here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405165
+Link to Page 2 information here https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653388
 
 # Page 3
 # How do I Do Research, Find Sources, Use the Library Resources, etc., to complete the EBO?
@@ -539,7 +539,7 @@ Libraries](https://www.youtube.com/watch?v=S_lnC6z9F8g&feature=emb_logo)
 [Check out this Video by Scribbr: \"How to Avoid Plagiarism with 3
 Simple Tricks\"](https://www.youtube.com/watch?v=uQhVDH9p7aU)
 
-Page 3 link is here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405167
+Page 3 link is here https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653390
 
 #Page 4 
 
@@ -808,7 +808,7 @@ questions or concerns, use the Essay Bot and please do connect with us.
 
 ##  **Good luck!**
 
-Page 4 link is here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405166
+Page 4 link is here https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653391
 
 # Page 5
 
@@ -850,7 +850,7 @@ State your Opposing 1 to support your thesis
 State your Argument 2 to support your thesis
 State your Opposing 2 to support your thesis
 Complete & Submit the “Essay Bibliography & Outline Worksheet” Word file
-➡️ Download this Word file at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+➡️ Download this Word file at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393
 
 1026F/G: Essay Bibliography & Outline Worksheet
 
@@ -861,9 +861,9 @@ Complete & Submit the “Essay Bibliography & Outline Worksheet” Word file
 Here is an Example of the EBO Grading Sheet:
 1026F/G: EBO Grading Sheet Example
 
-Download the ebo sheet here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+Download the ebo sheet here 
 
-Page 5 link https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+Page 5 link https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393
 
 ### **What is the Essay?**
 
@@ -1134,16 +1134,15 @@ regardless of grade achieved (e.g. earned 48% - 5% = 43%.
 
 **Complete & Submit the "Essay Bibliography & Outline Worksheet" Word
 file**\
-**(will be posted shortly):**
+** available here: https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393 **
 
 **Download this : Essay Bibliography Outline Worksheet WORD**
 
-**(when you click on the above, it will open a new window for download,
-etc.)**
+https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393
 
 ## 
 
-## **Here is an Example of the EBO Grading Sheet:** **(will be posted shortly):** 
+## **Here is an Example of the EBO Grading Sheet:** ** https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393 ** 
 
 **EBO Grading Sheet Example**
 
@@ -1156,182 +1155,8 @@ etc.)**
 
 # **Submitting Cautions, Caveats, Rules, etc.**
 
-## **EBO On-time Submission:**
-
-- Due Date: Wed Oct 8 11:59pm
-
-- No penalty leeway: Submit by Tue Oct 14 11:59pm
-
-  - If you submit too close to 11:59pm, it may not go through in time
-    *and so your submission is [not]{.underline} considered submitted*
-
-- Resubmission is permitted until Tue Oct 14 11:59pm
-
-  - your previous submissions will be over-written
-
-  - we\'ll mark your last/latest submission
-
-## **EBO Late Penalty -10% submission:**
-
-- Due Date: Wed Oct 15 11:59pm
-
-- No further penalty leeway: Submit by Wed Oct 21 11:59pm
-
-  - If you submit too close to 11:59pm, it may not go through in time
-    *and so your submission is NOT considered submitted*
-
-  - FYI: \'further\' here means no extra penalty on top of -10% will be
-    applied if submitted by Nov 15 11:59pm (after which point no
-    submission will be accepted)
-
-- Resubmission is permitted until Nov 15, 11:59pm
-
-  - your previous submissions will be over-written
-
-  - we\'ll mark your last/latest submission *so if you submit to this
-    link after already submitting ot the On-time link, you will have the
-    Late Penalty -10% applied to your EBO grade*
-
-- Note: -10% is a flat penalty; there are no part or daily penalties for
-  the EBO (or Essay)
-
-### **NO EBO submissions are permitted AFTER Tues Oct 21 11:59pm without Academic Consideration**
-
-## **General Submission Instructions, Directions, etc.:**
-
-- Submit only through our Course OWL site
-
-  - Submissions via email, courier, cloud drive linkshare, etc., will
-    not count for submission
-
-  - If you email, courier, etc., your EBO under any circumstances, by
-    default, it will not be considered submitted or accepted for grading
-    regardless
-
-- No EBO submissions are permitted AFTER Tues Oct 21 11:59pm without
-  Academic Consideration
-
-- If you do not submit the EBO Worksheet as posted, and filled in with
-  your work, [you will be assigned Zero]{.underline} so ensure you are
-  submitting the proper document
-
-  - You can submit the Word document or else the PDF but not other
-    versions or your own version of the document, and if you do submit
-    an alternate version, you will be assigned a Zero
-
-- Upload [only Word or PDF]{.underline} files/attachments
-
-  - File types: Word = .doc, .docx ; or PDF = .pdf
-
-- If you submite an unrecognized or unrecognizable file or file type:
-  you will [not]{.underline} be permitted to submit the correct file
-  type later and will be assigned a Zero, *so pay attention to the above
-  warnings and instructions*
-
-- *Do not submit these file types*: Apple .odt, GoogleDocs .gdoc,
-  Rich-Text Files .rft, Text .txt, Powerpoint .ppt/.pps/.pptx/.ppx,
-  Excel .xls./.xlsx, Graphic .jpg/.jpeg/.png/.tif/.tiff/.gif
-
-- No links to drives, linked drives, clouds, etc.: Sharepoint,
-  GoogleDrive, iCloud, Dropbox, etc. will count as submissions
-
-- **Only** submission through appropriate our OWL site\'s Assignments\'
-  page link [counts for submission]{.underline}, so [no]{.underline}
-  email, fax, dropping of hardcopies, couriers, etc., submissions are
-  permitted for any reason
-
-  - Do not email, fax, drop off hardcopy, courier, etc., submissions to
-    the Instructors or anyone else as this is *[not]{.underline}*
-    permitted; we are *[not]{.underline}* required/responsible to let
-    you know that it doesn\'t count for submission \-- you need to pay
-    attention to these directions \-- and not receiving a response to
-    you doing any of the aforementioned *is [not]{.underline} grounds*
-    for consideration, appeal, etc.
-
-- **Note**: the following are [not]{.underline} grounds for resubmission
-  or accommodation or for not being assigned a zero for your EBO
-  submission
-
-  - If you submit an unrecognizable file or file that is
-    [not]{.underline} a Word or PDF file
-
-  - If you change your topic for your Essay from the EBO topic you had
-    when you submitted your EBO, you will retroactively get 0 for your
-    EBO
-
-  - If you don\'t check your submission before submitting to make sure
-    it is the right version, right document, right file type, etc.
-
-    - You can go back and check once your submission goes into OWL so do
-      verify what you submitted
-
-  - If you submit someone else\'s file/work as your own work \-- file
-    mix ups, etc., are NOT grounds for defence as you can check/verify
-    your submission
-
-  - If you submit a non-English document
-
-  - If you leave your submission as \'draft\'/upload and don\'t press
-    the final submission buttons
-
-  - If you go to rectify any of the above but *run out of time and the
-    link available for submission closes on you*
-
-  - If you submit a blank document/assignment
-
-  - If you submit a partially completed document/assignment
-
-  - If you submit an assignment for another course, etc.
-
-  - NOTE: this list is [extensive but not exhaustive]{.underline} of
-    *reasons not permitted for resubmission*, etc.
-
-- Extensions:
-
-  - Can\'t use Undocumented Absence for this assignment
-
-  - [Only]{.underline} through following the processes for Academic
-    Consideration
-
-  - If you are seeking Academic Consideration, then you musn\'t submit
-    in the On-time link (or the Late Penalty link) and then submit later
-    to the Academic Consideration submission link
-
-  - Academic Consideration submission link will be provided for you to
-    submit [separately]{.underline} from the regular links
-    [so]{.underline} await your access to the AC link for submission
-
-  - TA-Markers do [not]{.underline} deal with extensions so don\'t
-    email, etc., them \-- you need to pay attention to these directions
-    \-- and not receiving a response to you doing any of the
-    aforementioned for an extension *is NOT grounds* for consideration,
-    appeal, etc.
-
-    - TAs are not required/responsible to let you know they don\'t
-      handle these matters, and if they do reply, they will simply tell
-      you to read the Academic Consideration page
-
-- *If you already submitted to the On-time link, [then]{.underline}*
-  your submission to the Late link will be replace *that submission* and
-  the Late Penalty will be applied to your grade
-
-  - Do not submit to the Late link *unless* you want to replace your
-    On-time link submission
-
-- *If you submit to the Late link as well as the On-time link*, your
-  submission to the On-time link will be replaced with *that submission*
-  and the Late Penalty will be applied to your grade
-
-  - Do not submit to the Late link *unless* you want to replace your
-    On-time link submission
-
-- Note: Maximum Grade for any assignment in this course is 100%
-
-- I**f you have any questions, email or text Nig <nnarain@uwo.ca>,
-  thanks**
-
   
-# FAQ page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405171
+# FAQ page https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653395
 
 EBO Frequently-Asked Questions
 (EBO FAQs)
@@ -1460,78 +1285,10 @@ A: No.
 Q: Do I have to read the sources in the library even if they are online?
 A: No. Once logged in through the library website, you can read them anywhere.
 
-# FAQ page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405171
+# FAQ page https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653395
 
-# EBO due date page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3411965
 
- READ fully, please 
-
-EBO: Due Date; Submission Cautions, Caveats, Rules, etc.
-EBO On-time Submission:
-Due Date: Wed Oct 8 11:59pm
-No penalty leeway: Submit by Tue Oct 14 11:59pm 
-If you submit too close to 11:59pm, it may not go through in time and so your submission is not considered submitted
-Resubmission is permitted until Tue Oct 14 11:59pm
-your previous submissions will be over-written
-we'll mark your last/latest submission
-EBO Late Penalty -10% submission:
-Due Date: Wed Oct 15 11:59pm
-No further penalty leeway: Submit by Wed Oct 21 11:59pm 
-If you submit too close to 11:59pm, it may not go through in time and so your submission is NOT considered submitted
-FYI: 'further' here means no extra penalty on top of -10% will be applied if submitted by Wed Oct 21 11:59pm (after which point no submission will be accepted)
-Resubmission is permitted until Wed Oct 21, 11:59pm
-your previous submissions will be over-written
-we'll mark your last/latest submission so if you submit to this link after already submitting ot the On-time link, you will have the Late Penalty -10% applied to your EBO grade
-Note: -10% is a flat penalty; there are no part or daily penalties for the EBO (or Essay)
-NO EBO submissions are permitted AFTER Tues Oct 21 11:59pm without Academic Consideration
-General Submission Instructions, Directions, etc.:
-Submit only through our Course OWL site
-Submissions via email, courier, cloud drive linkshare, etc., will not count for submission
-If you email, courier, etc., your EBO under any circumstances, by default, it will not be considered submitted or accepted for grading regardless
-No EBO submissions are permitted AFTER Tues Oct 21 11:59pm without Academic Consideration
-If you do not submit the EBO Worksheet as posted, and filled in with your work, you will be assigned Zero so ensure you are submitting the proper document
-You can submit the Word document or else the PDF but not other versions or your own version of the document, and if you do submit an alternate version, you will be assigned a Zero
-Upload only Word or PDF files/attachments 
-File types: Word = .doc, .docx ; or PDF = .pdf 
-If you submite an unrecognized or unrecognizable file or file type: you will not be permitted to submit the correct file type later and will be assigned a Zero, so pay attention to the above warnings and instructions
-Do not submit these file types: Apple .odt, GoogleDocs .gdoc, Rich-Text Files .rft, Text .txt, Powerpoint .ppt/.pps/.pptx/.ppx, Excel .xls./.xlsx, Graphic .jpg/.jpeg/.png/.tif/.tiff/.gif 
-No links to drives, linked drives, clouds, etc.: Sharepoint, GoogleDrive, iCloud, Dropbox, etc. will count as submissions
-Only submission through appropriate our OWL site's Assignments' page link counts for submission, so no email, fax, dropping of hardcopies, couriers, etc., submissions are permitted for any reason
-Do not email, fax, drop off hardcopy, courier, etc., submissions to the Instructors or anyone else as this is not permitted; we are not required/responsible to let you know that it doesn't count for submission -- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned is not grounds for consideration, appeal, etc. 
-Note: the following are not grounds for resubmission or accommodation or for not being assigned a zero for your EBO submission
-If you submit an unrecognizable file or file that is not a Word or PDF file
-If you change your topic for your Essay from the EBO topic you had when you submitted your EBO, you will retroactively get 0 for your EBO
-If you don't check your submission before submitting to make sure it is the right version, right document, right file type, etc.
-You can go back and check once your submission goes into OWL so do verify what you submitted
-If you submit someone else's file/work as your own work -- file mix ups, etc., are NOT grounds for defence as you can check/verify your submission 
-If you submit a non-English document
-If you leave your submission as 'draft'/upload and don't press the final submission buttons
-If you go to rectify any of the above but run out of time and the link available for submission closes on you 
-If you submit a blank document/assignment
-If you submit a partially completed document/assignment
-If you submit an assignment for another course, etc.
-NOTE: this list is extensive but not exhaustive of reasons not permitted for resubmission, etc.
-Extensions:
-Can't use Undocumented Absence for this assignment
-Only through following the processes for Academic Consideration
-If you are seeking Academic Consideration, then you should not submit in the On-time link (or the Late Penalty link) and then submit later to the Academic Consideration submission link
-Academic Consideration submission link will be provided for you to submit separately from the regular links so await your access to the AC link for submission
-TA-Markers or others do not deal with extensions so don't email, etc., them -- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned for an extension is NOT grounds for consideration, appeal, etc. 
-TAs are not required/responsible to let you know they don't handle these matters, and if they do reply, they will simply tell you to read the Academic Consideration page
-If you already submitted to the On-time link, then your submission to the Late link will be replace that submission and the Late Penalty will be applied to your grade
-Do not submit to the Late link unless you want to replace your On-time link submission 
-If you submit to the Late link as well as the On-time link, your submission to the On-time link will be replaced with that submission and the Late Penalty will be applied to your grade
-Do not submit to the Late link unless you want to replace your On-time link submission 
-Note: Maximum Grade for any assignment in this course is 100%
-If you have any questions, email or text Nig nnarain@uwo.ca, thanks
-Flexible Deadlines & Accessible Education
-Accessible Education office has confirmed that since we are providing an on-time submission no-penalty leeway and for the late submission, flexible deadline accommodation for the EBO or Essay is not needed.
-
-If you have a medical or other grounds, then you will need to speak to your Accessible Education counsellor or Academic Counselling per the Academic Consideration page.
-
-EBO due date page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3411965
-
-# Essay instructions page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405168
+# Essay instructions page https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653392
 
 What are the Instructions for the Essay?
 
@@ -1760,87 +1517,19 @@ The following is an example of the grade sheet - students have access to it in a
 
 *Comments are either in your returned file or a separate file in that same folder.*
 
-Contents of the EBO grading sheet at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
-
-This is the essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
-
-Essay assignment Due via OWL site Wednesday December 3 11:59pm; no penalty applied if submitted by Tuesday December 9, 2025, 11:59pm
-
-Late -10% Essay Due Wednesday December 10 11:59pm; no penalty applied if submitted by Tuesday December 16 11:59pm
-
-Concerning “Undocumented Absence” Academic Consideration:
-You do not need to submit a request for academic consideration if this Essay deadline cannot be met (self-attestation or otherwise)
-This is because an extension will be granted automatically, without penalty, to Tuesday, December 9 11:59pm, for those experiencing extenuating circumstances (e.g., illness, bereavement, etc.) that prevent submission on the Due Date of Wednesday, December 3.
-TO BE CLEAR: this does not mean the Essay is “really” due on Tuesday, December 9; it is due on Wednesday, December 3. But after Tuesday, December 9 at 11:59pm, the Essay is considered late. We will still accept submission until Wednesday, December 10 at 11:00pm, with a late penalty of -10% applied.
-The aforementioned also applies to the Late -10% Essay with respectively adjusted dates
-Again, any requests for academic consideration will not be considered if submitting between between Wednesday, December 3 and Tuesday, December 16 11:59pm because extensions were already granted and accounted for in the due dates and no-penalty lee way dates
-Per Senate Regulations: “An instructor may deny academic consideration relating to the timeframe submission of work where there is already flexibility in the submission timeframe (e.g., 72-hour submission window). This assessment flexibility must be indicated on the course outline” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
-Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? When flexibility in assessment exists and is clearly stated on the course outline, both undocumented absences and academic consideration requests with documentation may be denied” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
-If you have significant extenuating documented circumstances, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
-If you have documented grounds for a late submission beyond Dec 16, in that case, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
-Those students who are accommodated with flexible deadlines through Accessible Education should check the OWL site for your particular AE dates and other details and notes
-
-# Essay due date page https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3417234
-
-# Essay  draft checker page https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405164
-
-Draft Checker:
-Directions & How to Use your Report
-NOTE: Submission to the 'Draft Check' link does not count for Submission of the Essay
-NOTE: 
-REMINDER > All relevant links are on this OWL site
-ONLY submit Drafts for THIS CLASS -- if you run a report for another class, your other professor/TA will see that you submitted here, will request a verification report, and then they can charge you with Academic Misconduct Penalties, etc., and the penalty may be: a 0/zero for their assignment and/or our class Essay, and/or a failing grade for one or both courses, etc.
-You must upload a WORD or PDF > only use these file types: Word (.doc, .docx) or PDF (.pdf)
-Turnitin does not recognize:
-Apple .odt files
-GoogleDocs files
-Links to file on Sharepoint, GoogleDrive, iCloud, Dropbox, etc.
-Same cautions are already stated on the Essay page
-Resubmission: Unlimited until until due date for that link
-NOTE: after 3 report generations, reports generate after 24 hours
-Depending on volume, your next report may take a couple of hours to generate SO submit earlier rather than closer to deadline
-Depending on volume, your next report may take a couple of hours to generate SO submit earlier rather than closer to deadline
-Reading your results: < read this carefully
-Watch this Video from Turnitin which shows how to look over your Report, starting at 3:50pm: 
+Contents of the EBO grading sheet at the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653393
 
 
-Note: you can access your Report through this page, not through the Turnitin site, etc.
-Flags: Student View flag may come up  as up Red SO go into the Feedback window to see the actual scores -- don't base your assessment only on the flag colour
-Generally, you want LESS THAN 15% OVERALL match
-For any source, Turnitin takes any result below 1% as still being 1% so if you have 24 sources x 1%, it will show 24%, so don't worry about that
-If you have a whole bunch of sources 3%'s or less adding up to a large number, so don't worry about a whole bunch 3% or lower
-You do not want any SINGLE SOURCE to be over 3%, but if it's over 3%, just work on fixing it  (quotation marks, citations, paraphrasing, etc.)
-You can check your Word Count either in Document Viewer by clicking the "Circled-i" in the bottom left; or in top mast head under Text-only View
-Bibliography materials (if properly in quotes, but not bloc quotes) have been excluded
-It IS POSSIBLE to get 0/zero or single digit numbers for your Feedback analysis
-NOTE: you should be working through this to assess your paper as this is A SKILL you need to develop (and it's a good one!) = assessing reports for what matters, understanding criteria, writing better, ensuring you learn how to do citations, etc.
-THUS: emailing us to ask if 'you've plagiarised', etc., is not the way to go: TRUST YOURSELF to read over the above criteria, look over your report, etc.
-How do I avoid Plagiarism? How and when do I Paraphrase?
-Paraphrasing
-What is Paraphrasing? It is not a phrase with a parachute! How can you use the ideas in books or articles without plagiarizing? Both of these resources show you how to do it properly and with examples.
 
-Click here: https://www.lib.uwo.ca/tutorials/paraphrasing/index.html
 
-Check out this Video by Scribbr: "How to Paraphrase in 5 Easy Steps"
 
-Plagiarism
-Info from Western Libraries
-
-Check out this Video by Scribbr: "How to Avoid Plagiarism with 3 Simple Tricks"
-
-if you have any questions, email or text Nig (not your TA), thanks.
-
-We will not confirm that your file 'is fine', 'needs work', etc., as this is about you using your judgement and doing the necessary work to learn to do this yourself.
-
-# Essay FAQ page updated Nov 27 2025 https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405169
-
-Essay Frequently-Asked Questions (FAQs)
+# Essay FAQ page updated Jan 5 https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653385
 
 Essay Frequently-Asked Questions (FAQs)
 “The difference between ‘reAd it’ and ‘reDdit’ is an A versus a D”
 - Nig Narain
 
-Last Update: Nov 27
+Last Update: Jan 5
 
 REMINDER:
 
@@ -1887,12 +1576,11 @@ Yes
 Word count is what we assess so ensure you are meeting the word count minimums
 # of pages can be affected by font size, margins, spacing, and other factors 
 How many marks do I lose if I am over or under the word limit? 
-1500-word count
+1500-word count for the main essay text (not Bibligraphy or Works Cited)
 We are permitting:
-below 1,300 words = -5% penalty
-above 1,700 words = -5% penalty
+200 word leeway below = 1,300 words = -5% penalty
+200 word leeway above = 1,700 words = -5% penalty
 This is means a leeway of 200-words under/over (or 10% word count leeway) with no penalty, but anything more gets a penalty most likely
-We do exercise discretion and best efforts in assessing this penalty
 What can I do if I’m still short of the word count?
 Evidence, examples with citations
 Most essays who are low/below word count also usually have no to poor evidence cited from sources, so read like an opinion-piece rather than an argumentative essay
@@ -2141,6 +1829,20 @@ Usually, about 5 citations per page to show you can deploy your sources well and
 Is there a such thing as 'overciting'?
 Cite appropriately and show you know how to cite
 If you keep citing everything everywhere endlessly your essay will appear to have none of your ideas or analysis or thoughts
+What if I have a scholarly academic journal source which uses eLocator instead of page numbers?
+Some scholarly academic journals are online only and may not have page numbers
+NOTE: it is your responsibility to ensure you check if the journal uses page numbers and it just also posted online or if it is truly all online and only uses eLocators
+MLA - MLA style allows that if a journal uses an article number instead of page numbers, place the article number where the page range normally goes
+Works Cited:
+Fernandez, Lucia M., et al. “Thermal Adaptation in High-Altitude Amphibians.” Journal of Experimental Zoology, vol. 329, no. 4, e20245, 2024.
+In-line Citation:
+(Fernandez e20245)
+Chicago - Chicago style allows article numbers or eLocators to be used in place of page ranges: you simply place the eLocator in the position where page numbers normally go:
+Bibliography:
+Fernandez, Lucia M., David H. Cho, and Priya N. Patel. “Thermal Adaptation in High-Altitude Amphibians.”
+Journal of Experimental Zoology 329, no. 4 (2024): e20245.
+Footnote/Endnote:
+Lucia M. Fernandez, David H. Cho, and Priya N. Patel, “Thermal Adaptation in High-Altitude Amphibians,” Journal of Experimental Zoology 329, no. 4 (2024): e20245.
 Formatting & Organization
 Should I make time to edit?
 Yes
@@ -2252,19 +1954,6 @@ Yes BUT note the refugees should be one coming to Canada
 Can there be refugees from countries Canada does not recognize as refugees, such as Americans or Chinese or Brazilians or Russians?
 Theoretically yes, but focus on the groups Canada has identified as refugees so that you have academic works on the matters you want to discuss
 
-Other questions:
-
-question: where do I upload the ebo?
-Answer: it will be available under assessments --> assignments closer to the deadline.
-
-Question: how much is the ebo worth of my grade
-Answer: the ebo is worth 10% of the final grade in the course
-
-Question: what should be the file name of the assignment?
-Answer: any file name is okay as long as it is in the appropriate format
-
-Question: after my assignment is graded can I resubmit it?
-Answer: no, there is only one submission permitted
 
 
 
