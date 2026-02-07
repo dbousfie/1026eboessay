@@ -1155,6 +1155,82 @@ etc.)**
 
 # **Submitting Cautions, Caveats, Rules, etc.**
 
+
+👇 READ fully, please👇&nbsp;
+EBO Due Dates, Submitting Cautions, Caveats, Rules, etc.
+“The difference between ‘reAd it’ and ‘reDdit’ is an A versus a D”
+– Nig Narain
+
+REMINDER: only submission through our OWL site links counts for submissions for this course; no other form of, way to, path for, etc., submission will count for submission&nbsp;
+
+On-Time Due Date: Mon Feb 9 11:59 pm via OWL site → No Penalty Lee-way Date: Fri Feb 13 6:00 pm via OWL site (note the extension of the due date &amp; time)
+
+Late Penalty Due Date: Mon Feb 23 11:59 pm via OWL site → No Further Penalty Lee-way Date: Thu Feb 26 11:59 pm via OWL site (note the change from Feb 13 late due date)
+
+Concerning “Undocumented Absence” Academic Consideration:
+As there is ‘flexibility in assessment’, you cannot use the Undocumented Absence Academic Consideration process for the EBO
+You do not need to submit a request for academic consideration if the EBO deadline cannot be met (self-attestation or otherwise)
+This is because an extension will be granted automatically, without penalty, to Fri Feb 13 6:00 pm, for those experiencing extenuating circumstances (e.g., illness, bereavement, etc.) that prevent submission on the Due Date of Mon Mon Feb 9 11:59 pm
+TO BE CLEAR: this does not mean the EBO is “really” due on Fri Feb 13 6:00 pm. It is due on Mon Feb 9 11:59 pm, but&nbsp;after Fri Feb 13 6:00 pm, the EBO is considered late, but we will still accept submission until Thu Feb 26 11:59pm with a late penalty of -10% applied
+As well, NO requests for academic consideration will be considered if submitting between Mon Feb 9 11:59 pm and Thu Feb 26 11:59pm, because an extension was already granted, and the EBO is now late
+Per Senate Regulations: “An instructor may deny academic consideration relating to the timeframe submission of work where there is already flexibility in the submission timeframe (e.g., 72-hour submission window). This assessment flexibility must be indicated on the course outline” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? When flexibility in assessment exists and is clearly stated on the course outline, both undocumented absences and academic consideration requests with documentation may be denied.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+If you have significant extenuating documented circumstances, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
+If you have documented grounds for a late submission extension beyond Thu Feb 26 11:59pm, in that case, you should read the Registrar’s Academic Consideration page&nbsp;https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration
+Accessible Education students who are accommodated with flexible deadlines will also&nbsp;not receive further accommodation&nbsp;as the no-penalty timeframe for submission&nbsp;already exceeds&nbsp;the Accessible Education guidelines for flexible deadlines
+Note that the Late Penalty submission opportunity &amp; dates for the EBO is the FINAL opportunity to submit the EBO, and no further submissions will be accepted without Academic Counselling approved academic consideration
+Accessible Education Students: Accessible Education office has confirmed that since we are providing leeway for the on-time submiission and for the late submission, flexible deadline accommodation for the EBO or Essay is not needed as the leeway period exceeds flexible deadline requirements. Thus, Accessible Education students who are accommodated with flexible deadlines will not receive further accommodation as the no-penalty timeframes for submission already exceed the Accessible Education guidelines for flexible deadlines.
+General Submission Instructions, Directions, etc.:
+Upload ONLY WORD or PDF files/attachments&nbsp;
+File types: Word = .doc, .docx ; or PDF = .pdf&nbsp;
+IF YOU SUBMIT AN UNRECOGNIZED/-ABLE FILE TYPE: you will NOT be permitted to submit the correct file type later&nbsp;so pay attention to the above warnings and instructions
+Do not submit these file types: Apple .odt,&nbsp;GoogleDocs .gdoc,&nbsp;Rich-Text Files .rft, Text .txt, Powerpoint .ppt/.pps/.pptx/.ppx, Excel .xls./.xlsx, Graphic .jpg/.jpeg/.png/.tif/.tiff/.gif&nbsp;
+NO links to drives, linked drives, clouds, etc.:&nbsp;Sharepoint, GoogleDrive, iCloud, Dropbox, etc.
+ONLY&nbsp;submission through appropriate OWL Assignments' page link&nbsp;counts for submission, so NO email, fax, dropping of hardcopies, couriers, etc., submissions are permitted for any reason
+Do not email, fax, drop off hardcopy, courier, etc., submissions to the Instructors or TAs as this is NOT permitted; we are&nbsp;NOT&nbsp;required/responsible to let you know that it doesn't count for submission -- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned&nbsp;is NOT grounds&nbsp;for consideration, appeal, etc.&nbsp;
+NOTE: the following are NOT grounds for resubmission or accommodation or for not being assigned a zero for your EBO submission:
+If you submit an unrecognizable file or file that is NOT a Word or PDF file
+If you change your topic for your EBO from the EBO topic you had when you submitted your EBO, you will retroactively get 0 for your EBO
+If you don't check your submission before submitting to make sure it is the right version, right document, right file type, etc.
+You can go back and check once your submission goes into OWL so do verify what you submitted
+If you submit someone else's file/work as your own work -- file mix ups, etc., are NOT grounds for defence as you can check/verify your submission&nbsp;
+If you submit a non-English document
+If you leave your submission as 'draft'/upload and don't press the final submission buttons
+If you go to rectify any of the above but&nbsp;run out of time and the link available for submission closes on you&nbsp;
+If you&nbsp;submit a link to GoogleDrive, Sharepoint OneDrive, etc., link
+If you&nbsp;submit a blank document
+If you&nbsp;submit a blank worksheet
+If you don't submit the EBO worksheet
+If you submit a breif, an essay, an op-ed, or some other assignmnet
+If you&nbsp;submit an assignment for another class
+If your sources are all, or just some, not real, fake, adulterated
+If your document fails to upload
+NOTE:&nbsp;this list is&nbsp;extensive but not exhaustive&nbsp;of&nbsp;reasons not permitted for resubmission, etc.
+MAKE SURE YOU CHECK YOUR SUBMISSION AFTER YOUR UPLOAD IT
+Extensions:
+Can't use Undocumented Absence for this assignment -- see Course Outline for details
+ONLY through following the processes for Academic Consideration
+If you are seeking Academic Consideration, then you musn't submit in the On-time link (or the Late Penalty link) and then submit later to the Academic Consideration link
+Academic Consideration link will be provided for you to submit SEPARATELY from the regular links SO await your access to the AC link for submission
+TAs do NOT deal with extensions so don't email, etc., them&nbsp;-- you need to pay attention to these directions -- and not receiving a response to you doing any of the aforementioned for an extension&nbsp;is NOT grounds&nbsp;for consideration, appeal, etc.&nbsp;
+TAs are not required/responsible to let you know they don't handle these matters, and if they do reply, they will simply tell you to read the Academic Consideration page
+If you already submitted to the On-time link already, THEN&nbsp;your submission to the Late link will be replace&nbsp;that submission&nbsp;and the Late Penalty will be applied to your grade
+Do not submit to the Late link&nbsp;unless&nbsp;you want to replace your On-time link submission&nbsp;
+If you submit to the Late link as well, your submission to the On-time link will be replaced with&nbsp;that submission&nbsp;and the Late Penalty will be applied to your grade
+Do not submit to the Late link&nbsp;unless&nbsp;you want to replace your On-time link submission&nbsp;
+Academic Counselling does NOT handle technology problem issues, and you CANNOT use Medical or Compassionate grounds for accommodation for technology or technical problems' issues, etc.
+You CANNOT email, courier, FTP, send in a USB key to the main or any other office, drop off a hard copy, etc.; ONLY SUBMISSION THROUGH THIS OWL SUBMISSION LINK (or late or related links), COUNTS FOR ACTUAL SUBMISSION OF THIS EBO
+If you submit to the late submission link&nbsp;as well as the on-time link,&nbsp;only the late link will be marked and the late penaly applied
+
+If you have any questions, email or text Nig nnarain@uwo.ca,&nbsp;thanks.
+
+NOTE: Maximum Grade for any assignment in this course is 100%
+
+Flexible Deadlines &amp; Accessible Education Students:
+
+Accessible Education office has confirmed that since we are providing leeway for the on-time submiission and for the late submission, flexible deadline accommodation for the EBO or Essay is not needed as the leeway period exceeds flexible deadline requirements. Thus, Accessible Education students who are accommodated with flexible deadlines will not receive further accommodation as the no-penalty timeframes for submission already exceed the Accessible Education guidelines for flexible deadlines.
+
+If you have a medical or other grounds, then you will need to speak to your Accessible Education counsellor or Academic Counselling per the Academic Consideration page.
+
   
 # FAQ page https://westernu.brightspace.com/d2l/le/lessons/156117/lessons/3653395
 
@@ -1953,6 +2029,7 @@ Can I discuss refugees from anywhere in the world?
 Yes BUT note the refugees should be one coming to Canada
 Can there be refugees from countries Canada does not recognize as refugees, such as Americans or Chinese or Brazilians or Russians?
 Theoretically yes, but focus on the groups Canada has identified as refugees so that you have academic works on the matters you want to discuss
+
 
 
 
